@@ -97,24 +97,18 @@ Tyrion Lannister: Untie me. If I die, what's the point?
 Tyrion, now loose, runs over and picks up a shield. He fends off an attack as another of Lady Stark’s men kills him. Another tribesman is nearing Catelyn, Tyrion rushes over with his shield, knocks him to the ground and begins slamming it into his throat, directly in front of, and in defense of Catelyn. The battle comes to an end with many of their men defeated.
 Catelyn Stark: Rodrik?
 Rodrik Cassel: I'll be fine, my Lady. There's no need to bloody yourself.
-Bronn: Your first? You need a woman. Nothing like a woman after a fight.
+Bronn:  Your first? You need a woman. Nothing like a woman after a fight.
 Tyrion Lannister: Well, I'm willing if she is.
 Back at Winterfell, Maester Luwin and Bran are at a small table, Luwin trying to teach Bran. Bran is fixed on watching Theon as he is practicing his archery.
 Maester Luwin: Bran...
-Bran Stark: The Iron Islands. Sigil - a Kraken. Words - "We do not sow".
 Maester Luwin: Lords?
 Bran Stark: The Greyjoys.
 Theon Greyjoy: Famed for their skills at archery, navigation and lovemaking.
 Maester Luwin: And failed rebellions.
-Bran Stark: Sigil - a stag. - A crowned stag now that Robert's King.
 Maester Luwin: Good.
-Bran Stark: Words - "Ours is the fury". Lords - the Baratheons.
 Maester Luwin:: Mhmm.
-Bran Stark: The Westerlands - sigil - a lion.
 Maester Luwin: Hmm...
-Bran Stark: Words - "A Lannister always pays his debts."
 Maester Luwin: No. A common saying, but not their official motto.
-Bran Stark: Lords - the Lannisters.
 Maester Luwin: We're still on their words.
 Bran Stark: I don't know them.
 Maester Luwin: You do know them. Think.
@@ -191,7 +185,6 @@ Eddard Stark: The squire, Ser Hugh?
 Varys: Pity what happened to him, just when his life seemed to be going so nicely.
 Eddard Stark: If Ser Hugh poisoned him, who paid Ser Hugh?
 Varys: Someone who could afford it.
-Eddard Stark: Jon was a man of peace. He was Hand for 17 years -- 17 good years. Why kill him?
 Varys: He started asking questions.
 We shift to a dark dungeon of King’s Landing. Arya is still chasing the cat. She stops to admire a large dragon’s skull. She hears two men talking, and hides from them, just in earshot. The two men are Lord Varys and Magister Illyrio Mopatis.
 Varys: He's found one bastard already. He has the book. The rest will come.
@@ -295,7 +288,6 @@ Bronn: Give me 10 good men and some climbing spikes... I'll impregnate the bitch
 Tyrion Lannister: I like you.
 Ned is walking through a courtyard at King’s Landing, heading for the King Robert’s chambers. He is stopped by a royal steward.
 Steward: Lord Stark, your presence has been requested in the small council chamber. A meeting has been called.
-Eddard Stark: I need to see the King first -- alone.
 Steward: The King is at the small council meeting, my Lord. He has summoned you.
 Eddard Stark: Is it about my wife?
 Steward: No, my Lord. I believe it concerns Daenerys Targaryen.
@@ -321,7 +313,6 @@ Varys: I understand your misgivings, my Lord. Truly, I do. It is a terrible thin
 Grand Maester Pycelle: I bear this girl no ill will, but should the Dothraki invade, how many innocents will die? How many towns will burn? Is it not wiser, kinder even, that she should die now so that tens of thousands might live?
 Renly Baratheon: We should have had them both killed years ago.
 Petyr Baelish: When you find yourself in bed with an ugly woman, best close your eyes, get it over with. Cut her throat. Be done with it.
-Eddard Stark: I followed you into war - twice, without doubts, without second thoughts. But I will not follow you now. The Robert I grew up with didn't tremble at the shadow of an unborn child.
 Robert Baratheon: She dies.
 Eddard Stark: I will have no part in it.
 Robert Baratheon: You're the King's Hand, Lord Stark. You'll do as I command or I'll find me a Hand who will.
@@ -378,7 +369,6 @@ Loras Tyrell: You did vomit when that boy's eye was knocked out in the mêlée.
 Renly Baratheon:His eye was dangling out of the damn socket!
 Loras Tyrell: He shouldn't have entered the mêlée if he didn't know how to fight.
 Renly Baratheon: Easy for you to say. Not everyone is such a gifted swordsman.
-Loras Tyrell: It's not a gift. No one gave it to me. I'm good because I work at it -- every day of my life since I could hold a stick.
 Renly Baratheon: I could work at fighting all day, every day, and still never be as good as you.
 Loras Tyrell: Yes well, I guess we'll never know.
 Finished with Renly’s chest, Loras raises his arm so he can shave his armpit.
@@ -412,14 +402,12 @@ Cersei Baratheon: I'm sorry your marriage to Ned Stark didn't work out. You seem
 Robert Baratheon: I'm glad I could do something to make you happy.
 Cersei Baratheon: Without a Hand, everything will fall to pieces.
 Robert Baratheon: I suppose this is where you tell me to give the job to your brother Jaime.
-Cersei Baratheon: No. He's not serious enough. I'll say this for Ned Stark - he's serious enough. Was it really worth it? Losing him this way?
 Robert Baratheon: I don't know. But I do know this, if the Targaryen girl convinces her horse-lord husband to invade and the Dothraki horde crosses The Narrow Sea... We won't be able to stop them.
 Cersei Baratheon: The Dothraki don't sail. Every child knows that. They don't have discipline. They don't have armor. They don't have siege weapons.
 Robert Baratheon: It's a neat little trick you do, you move your lips and your father's voice comes out.
 Cersei Baratheon: Is my father wrong?
 Robert Baratheon: Let's say Viserys Targaryen lands with forty thousand Dothraki screamers at his back. We hole up in our castles, a wise move. Only a fool would meet the Dothraki in an open field. They leave us in our castles. They go from town to town, looting and burning, killing every man who can't hide behind a stone wall, stealing all our crops and livestock, enslaving all our women and children. How long do the people of the Seven Kingdoms stand behind their absentee King, their cowardly King hiding behind high walls? When do the people decide that Viserys Targaryen is the rightful monarch after all.
 Cersei Baratheon: We still outnumber them.
-Robert Baratheon: Which is the bigger number -- five or one?
 Cersei Baratheon: Five.
 Robert Baratheon: Five... one. One army, a real army, united behind one leader with one purpose. Our purpose died with the Mad King. Now we've got as many armies as there are men with gold in their purse. And everybody wants something different. Your father wants to own the world. Ned Stark wants to run away and bury his head in the snow.
 Cersei Baratheon: What do you want?
@@ -439,7 +427,6 @@ Cersei Baratheon: What harm could Lyanna Stark's ghost do to either of us that w
 Robert Baratheon: You want to know the horrible truth? I can't even remember what she looked like. I only know she was the one thing I ever wanted... Someone took her away from me, and Seven Kingdoms couldn't fill the hole she left behind.
 Cersei Baratheon: I felt something for you once, you know?
 Robert Baratheon: I know.
-Cersei Baratheon: Even after we lost our first boy -- for quite a while, actually. Was it ever possible for us? Was there ever a time, ever a... moment?
 Robert Baratheon: No. Does that make you feel better or worse?
 Cersei Baratheon: It doesn't make me feel anything.
 Inside one of Baelish’s brothels, Ned is speaking to one of the prostitutes. Jory and Baelish are in the next room.

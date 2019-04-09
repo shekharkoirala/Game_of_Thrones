@@ -1,427 +1,427 @@
 At the King’s Landing catacombs, Varys goes out to see Ned Stark.
-Varys: You've seen better days, my lord.
-Eddard Stark: Another visit? lt seems you're my last friend.
-Varys: No, no, many still love you. Sansa came to court this morning to plead for your life.
-Eddard Stark: On her knees begging for me. Hm! Did you laugh with the others?
-Varys: You do me wrong, my lord. Your blood is the last thing l want.
-Eddard Stark: l don't know what you want. l've given up trying to guess.
-Varys: When l was still a boy - before they cut my balls off with a hot knife - l traveled with a group of actors through the free cities. They taught me that each man has a role to play. The same is true at court. l am the master of whisperers. My role is to be sly, obsequious and without scruples. l'm a good actor, my lord.
-Eddard Stark: Huh. Can you free me from this pit?
-Varys: l could. But will l? No. As l said, I'm no hero.
-Eddard Stark: What do you want? Tell me. No riddles, no stories. Tell me, what do you want?
-Varys: Peace. Did you know that your son is marching south with an army of Northmen? Loyal lad. Fighting for his father's freedom.
-Eddard Stark: Robb? He's just a boy.
-Varys: Boys have been conquerors before. But the man giving Cersei sleepless nights is the king's the late king's brother. Lord Stannis has the best claim to the throne. He is a proven battle commander and he is utterly without mercy.
-Eddard Stark: Stannis Baratheon is Robert's true heir. The throne is his by rights.
-Varys: Sansa pleaded so sweetly for your life. lt would be a shame to throw it away. Cersei is no fool. She knows a tame wolf is more use to her than a dead one.
-Eddard Stark: You want me to serve the woman who murdered my king, who butchered my men, who crippled my son?
-Varys: l want you to serve the realm! Tell the queen you will confess your vile treason, tell your son to lay down his sword and proclaim Joffrey as the true heir. Cersei knows you as a man of honor. lf you give her the peace she needs, and promise to carry her secret to your grave, l believe she will allow you to take the black and live out your days on the Wall with your brother and your bastard son.
-Eddard Stark: You think my life is some precious thing to me? That l would trade my honor for a few more years of... of what? You grew up with actors. You learned their craft and you learnt it well. But l grew up with soldiers. l learned how to die a long time ago.
-Varys: Pity. Such a pity. What of your daughter's life, my lord? ls that a precious thing to you?
+Varys:  You've seen better days, my lord.
+Eddard Stark:  Another visit? lt seems you're my last friend.
+Varys:  No, no, many still love you. Sansa came to court this morning to plead for your life.
+Eddard Stark:  On her knees begging for me. Hm! Did you laugh with the others?
+Varys:  You do me wrong, my lord. Your blood is the last thing l want.
+Eddard Stark:  l don't know what you want. l've given up trying to guess.
+Eddard Stark:  Huh. Can you free me from this pit?
+Varys:  l could. But will l? No. As l said, I'm no hero.
+Eddard Stark:  What do you want? Tell me. No riddles, no stories. Tell me, what do you want?
+Varys:  Peace. Did you know that your son is marching south with an army of Northmen? Loyal lad. Fighting for his father's freedom.
+Eddard Stark:  Robb? He's just a boy.
+Varys:  Boys have been conquerors before. But the man giving Cersei sleepless nights is the king's the late king's brother. Lord Stannis has the best claim to the throne. He is a proven battle commander and he is utterly without mercy.
+Eddard Stark:  Stannis Baratheon is Robert's true heir. The throne is his by rights.
+Varys:  Sansa pleaded so sweetly for your life. lt would be a shame to throw it away. Cersei is no fool. She knows a tame wolf is more use to her than a dead one.
+Eddard Stark:  You want me to serve the woman who murdered my king, who butchered my men, who crippled my son?
+Varys:  l want you to serve the realm! Tell the queen you will confess your vile treason, tell your son to lay down his sword and proclaim Joffrey as the true heir. Cersei knows you as a man of honor. lf you give her the peace she needs, and promise to carry her secret to your grave, l believe she will allow you to take the black and live out your days on the Wall with your brother and your bastard son.
+Eddard Stark:  You think my life is some precious thing to me? That l would trade my honor for a few more years of... of what? You grew up with actors. You learned their craft and you learnt it well. But l grew up with soldiers. l learned how to die a long time ago.
+Varys:  Pity. Such a pity. What of your daughter's life, my lord? ls that a precious thing to you?
 Theon shoots a raven coming from The Twins. Robb picks it up and reads the message.
-Robb Stark: lt's a birthday message to his grand-niece Walda.
-Theon Greyjoy: Or so Walder Frey would have you think.
-Catelyn Stark: Keep shooting them down. We can't risk Lord Walder sending word of your movements to the Lannisters.
-Robb Stark: He's Grandfather's bannerman. We can't expect his support?
-Greatjon Umber: Expect nothing of Walder Frey and you'll never be surprised. Look.
-Robb Stark: Father rots in a dungeon. How long before they take his head? We need to cross the Trident and we need to do it now.
-Theon Greyjoy: Just march up to his gates and tell him you're crossing. We've got five times his numbers. You can take the Twins if you have to.
-Greatjon Umber: Not in time. Tywin Lannister marches north as we speak.
-Catelyn Stark: The Freys have held the crossing for 600 years, and for 600 years they have never failed to exact their toll.
-Robb Stark: Have my horse saddled and ready.
-Greatjon Umber: Enter the Twins alone and he'll sell you to the Lannisters as he likes.
-Theon Greyjoy: Or throw you in a dungeon. Or slit your throat.
-Robb Stark: My father would do whatever it took to secure our crossing. Whatever it took. lf l'm going to lead this army, l can't have other men doing my bargaining for me.
-Catelyn Stark: l agree. l'll go.
-Everyone: You can't!
-Catelyn Stark: l have known Lord Walder since l was a girl. He would never harm me.
-Greatjon Umber: Unless there was a profit in it.
+Robb Stark:  lt's a birthday message to his grand-niece Walda.
+Theon Greyjoy:  Or so Walder Frey would have you think.
+Catelyn Stark:  Keep shooting them down. We can't risk Lord Walder sending word of your movements to the Lannisters.
+Robb Stark:  He's Grandfather's bannerman. We can't expect his support?
+Greatjon Umber:  Expect nothing of Walder Frey and you'll never be surprised. Look.
+Robb Stark:  Father rots in a dungeon. How long before they take his head? We need to cross the Trident and we need to do it now.
+Theon Greyjoy:  Just march up to his gates and tell him you're crossing. We've got five times his numbers. You can take the Twins if you have to.
+Greatjon Umber:  Not in time. Tywin Lannister marches north as we speak.
+Catelyn Stark:  The Freys have held the crossing for 600 years, and for 600 years they have never failed to exact their toll.
+Robb Stark:  Have my horse saddled and ready.
+Greatjon Umber:  Enter the Twins alone and he'll sell you to the Lannisters as he likes.
+Theon Greyjoy:  Or throw you in a dungeon. Or slit your throat.
+Robb Stark:  My father would do whatever it took to secure our crossing. Whatever it took. lf l'm going to lead this army, l can't have other men doing my bargaining for me.
+Catelyn Stark:  l agree. l'll go.
+Everyone:  You can't!
+Catelyn Stark:  l have known Lord Walder since l was a girl. He would never harm me.
+Greatjon Umber:  Unless there was a profit in it.
 Catelyn finds herself inside the Twins, which the Freys gathered to watch her audience with Lord Walder.
-Walder Frey: What do you want?
-Catelyn Stark: lt is a great pleasure to see you again after so many years, my lord.
-Walder Frey: Oh, spare me. Your boy's too proud to come before me himself. What am l supposed to do with you?
-Stevron Frey: Father, you forget yourself. Lady Stark is –
-Walder Frey: Who asked you? You're not Lord Frey yet, not until l die. Do l look dead to you?
-Ryger Rivers: Father, please –
-Walder Frey: l need lessons in courtesy from you, bastard? Your mother would still be a milkmaid if l hadn't squirted you into her belly.
+Walder Frey:  What do you want?
+Catelyn Stark:  lt is a great pleasure to see you again after so many years, my lord.
+Walder Frey:  Oh, spare me. Your boy's too proud to come before me himself. What am l supposed to do with you?
+Stevron Frey:  Father, you forget yourself. Lady Stark is –
+Walder Frey:  Who asked you? You're not Lord Frey yet, not until l die. Do l look dead to you?
+Ryger Rivers:  Father, please –
+Walder Frey:  l need lessons in courtesy from you, bastard? Your mother would still be a milkmaid if l hadn't squirted you into her belly.
 (gestures to Catelyn) All right, you come forward.
 (kisses her hand) There. Now that l've observed the courtesies, perhaps my sons will do me the honor of shutting their mouths.
-Catelyn Stark: ls there somewhere we can talk?
-Walder Frey: We're talking right now. Fine. Out! All of you!
+Catelyn Stark:  ls there somewhere we can talk?
+Walder Frey:  We're talking right now. Fine. Out! All of you!
 (taps his new wife on the bottom) Oh! You too.
 (To Catelyn) You see that? Fifteen, she is. A little flower. And her honey's all mine.
-Catelyn Stark: l'm sure she will give you many sons.
-Walder Frey: Huh. Your father didn't come to the wedding.
-Catelyn Stark: He is quite ill, my lord.
-Walder Frey: Huh. Didn't come to the last one, either. Or the one before that. Your family has always pissed on me.
-Catelyn Stark: My lord, l –
-Walder Frey: Don't deny it. You know it's true. The fine Lord Tully would never marry any of his children to mine.
-Catelyn Stark: l'm sure there were reasons –
-Walder Frey: l didn't need reasons. l needed to get rid of sons and daughters. You see how they pile up? Why are you here?
-Catelyn Stark: To ask you to open your gates, my lord, so my son and his bannermen may cross the Trident and be on their way.
-Walder Frey: Why should l let him?
-Catelyn Stark: lf you could climb your own battlements, you would see that he has 20,000 men outside your walls.
-Walder Frey: There will be 20,000 corpses when Tywin Lannister gets here. Don't try and frighten me, Lady Stark. Your husband's in a cell beneath the Red Keep and your son's got no fur to keep his balls warm.
-Catelyn Stark: You swore an oath to my father.
-Walder Frey: Oh, yes, l said some words. And l swore oaths to the crown too, if l remember right. Joffrey's king now, which makes your boy and his corpses-to-be nothing but rebels, it seems to me. lf l had the sense the gods gave a fish, l'd hand you both over to the Lannisters.
-Catelyn Stark: Why don't you?
-Walder Frey: Stark, Tully, Lannister, Baratheon. Give me one good reason why l should waste a single thought on any of you?
+Catelyn Stark:  l'm sure she will give you many sons.
+Walder Frey:  Huh. Your father didn't come to the wedding.
+Catelyn Stark:  He is quite ill, my lord.
+Walder Frey:  Huh. Didn't come to the last one, either. Or the one before that. Your family has always pissed on me.
+Catelyn Stark:  My lord, l –
+Walder Frey:  Don't deny it. You know it's true. The fine Lord Tully would never marry any of his children to mine.
+Catelyn Stark:  l'm sure there were reasons –
+Walder Frey:  l didn't need reasons. l needed to get rid of sons and daughters. You see how they pile up? Why are you here?
+Catelyn Stark:  To ask you to open your gates, my lord, so my son and his bannermen may cross the Trident and be on their way.
+Walder Frey:  Why should l let him?
+Catelyn Stark:  lf you could climb your own battlements, you would see that he has 20,000 men outside your walls.
+Walder Frey:  There will be 20,000 corpses when Tywin Lannister gets here. Don't try and frighten me, Lady Stark. Your husband's in a cell beneath the Red Keep and your son's got no fur to keep his balls warm.
+Catelyn Stark:  You swore an oath to my father.
+Walder Frey:  Oh, yes, l said some words. And l swore oaths to the crown too, if l remember right. Joffrey's king now, which makes your boy and his corpses-to-be nothing but rebels, it seems to me. lf l had the sense the gods gave a fish, l'd hand you both over to the Lannisters.
+Catelyn Stark:  Why don't you?
+Walder Frey:  Stark, Tully, Lannister, Baratheon. Give me one good reason why l should waste a single thought on any of you?
+--------------------------------
 At Castle Black, Jon Snow and Commander Mormont are having a chat.
-Voices outside: And engage!
-Jeor Mormont: When does Aemon think you'll be able to use that hand?
-Jon Snow: Soon, he says.
-Jeor Mormont: Good. You'll be ready for this, then. l thought a wolf was more appropriate for you than a bear so l had a new pommel made. lt's called Longclaw. Works as well for a wolf as a bear, l think.
-Jon Snow: This is Valyrian steel.
-Jeor Mormont: lt was my father's sword, his father before him. The Mormonts have carried it for five centuries. lt was meant for my son Jorah. He brought dishonor to our House, but he had the grace to leave the sword before he fled from Westeros.
-Jon Snow: My lord, you honor me, but l can't –
-Jeor Mormont: Oh, you can. And you will. l wouldn't be standing here if it wasn't for you and your beast. A bloody dead man tried to kill me, so you'll take it. l'll hear no more about it. ls that understood?
-Jon Snow: Yes, my lord.
-Jeor Mormont: Right. Now, don't think this means l approve of this nonsense with you and Alliser Thorne. That's a man's sword. lt'll take a man to wield it.
-Jon Snow: l'll apologize to Ser Alliser tonight.
-Jeor Mormont: No, you won't. l sent him to King's Landing yesterday. The hand that your wolf tore off that thing's wrist – l've ordered Thorne to lay it at the feet of this boy king. That should get young Joffrey's attention. And it, uh, puts a thousand leagues between you and Thorne. Now go and put your sword somewhere safe and bring me my supper.
-Jon Snow: Yes, my lord.
+Voices outside:  And engage!
+Jeor Mormont:  When does Aemon think you'll be able to use that hand?
+Jon Snow:  Soon, he says.
+Jeor Mormont:  Good. You'll be ready for this, then. l thought a wolf was more appropriate for you than a bear so l had a new pommel made. lt's called Longclaw. Works as well for a wolf as a bear, l think.
+Jon Snow:  This is Valyrian steel.
+Jeor Mormont:  lt was my father's sword, his father before him. The Mormonts have carried it for five centuries. lt was meant for my son Jorah. He brought dishonor to our House, but he had the grace to leave the sword before he fled from Westeros.
+Jon Snow:  My lord, you honor me, but l can't –
+Jeor Mormont:  Oh, you can. And you will. l wouldn't be standing here if it wasn't for you and your beast. A bloody dead man tried to kill me, so you'll take it. l'll hear no more about it. ls that understood?
+Jon Snow:  Yes, my lord.
+Jeor Mormont:  Right. Now, don't think this means l approve of this nonsense with you and Alliser Thorne. That's a man's sword. lt'll take a man to wield it.
+Jon Snow:  l'll apologize to Ser Alliser tonight.
+Jeor Mormont:  No, you won't. l sent him to King's Landing yesterday. The hand that your wolf tore off that thing's wrist – l've ordered Thorne to lay it at the feet of this boy king. That should get young Joffrey's attention. And it, uh, puts a thousand leagues between you and Thorne. Now go and put your sword somewhere safe and bring me my supper.
+Jon Snow:  Yes, my lord.
 Jon Snow leaves the room and emerges outside, heading towards the mess hall.
-Unidentified Night’s Watchers: Well done. Well done.
-Night’s Watcher #1: You earned that, Snow.
-Night’s Watcher #2: Well done.
+Unidentified Night’s Watchers:  Well done. Well done.
+Night’s Watcher #1:  You earned that, Snow.
+Night’s Watcher #2:  Well done.
 Jon arrives at the mess hall. The other men gather around him to see his new sword, but Sam remains seated at a distance, looking distraught.
-Pyp: Go on, let's have a look.
-Jon Snow: At what?
-Grenn: The sword! Show us the sword.
-All: Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword!
-Pyp: Let's have a look.
-Grenn: Piss off.
-Pyp: Come on, l want to have a look at it in the light. Give it here!
-Grenn: Look at its eyes.
+Pyp:  Go on, let's have a look.
+Jon Snow:  At what?
+Grenn:  The sword! Show us the sword.
+All:  Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword!
+Pyp:  Let's have a look.
+Grenn:  Piss off.
+Pyp:  Come on, l want to have a look at it in the light. Give it here!
+Grenn:  Look at its eyes.
 While the others are playing with the sword, Jon gets seated beside Sam.
-Jon Snow: What is it?
-Samwell Tarly: l - l can't.
-Jon Snow: You can't what?
-Samwell Tarly: l'm really not supposed to say.
-Jon Snow: And yet you really want to say. You want to say that…
-Samwell Tarly: There was a raven. l read the message to Maester Aemon. lt's your brother Robb.
-Jon Snow: What? What about him?
-Samwell Tarly: He's heading south. To war. All his bannermen have rallied to his side, they'll keep him safe.
-Jon Snow: l should be there. l should be with him.
+Jon Snow:  What is it?
+Jon Snow:  You can't what?
+Samwell Tarly:  l'm really not supposed to say.
+Jon Snow:  And yet you really want to say. You want to say that…
+Samwell Tarly:  There was a raven. l read the message to Maester Aemon. lt's your brother Robb.
+Jon Snow:  What? What about him?
+Samwell Tarly:  He's heading south. To war. All his bannermen have rallied to his side, they'll keep him safe.
+Jon Snow:  l should be there. l should be with him.
+--------------------------
 Back at the Crossing, Catelyn returns from her conversation with Walder Frey at the Twins, and finds Robb and the others having a meeting in his tent.
-Greatjon Umber: lf we do that, they'll never get back across.
-Robb Stark: Well? What did he say?
-Catelyn Stark: Lord Walder has granted your crossing. His men are yours, as well.
-Robb Stark: Huh.
-Catelyn Stark: Less the 400 he will keep here to hold the crossing against any who would pursue you.
-Robb Stark: What does he want in return?
-Catelyn Stark: You will be taking on his son Olyvar as your personal squire. He expects a knighthood in good time.
-Robb Stark: Fine, fine. And?
-Catelyn Stark: And Arya will marry his son Waldron when they both come of age.
-Robb Stark: She won't be happy about that. And?
-Catelyn Stark: And when the fighting is done you will marry one of his daughters. Whichever you prefer. He has a number he thinks will be suitable.
-Robb Stark: l see. Did you get a look at his daughters?
-Catelyn Stark: l did.
-Robb Stark: And?
-Catelyn Stark: One was – Do you consent?
-Robb Stark: Can l refuse?
-Catelyn Stark: Not if you want to cross.
-Robb Stark: Then l consent.
+Greatjon Umber:  lf we do that, they'll never get back across.
+Robb Stark:  Well? What did he say?
+Catelyn Stark:  Lord Walder has granted your crossing. His men are yours, as well.
+Robb Stark:  Huh.
+Catelyn Stark:  Less the 400 he will keep here to hold the crossing against any who would pursue you.
+Robb Stark:  What does he want in return?
+Catelyn Stark:  You will be taking on his son Olyvar as your personal squire. He expects a knighthood in good time.
+Robb Stark:   Fine, fine. And?
+Catelyn Stark:  And Arya will marry his son Waldron when they both come of age.
+Robb Stark:  She won't be happy about that. And?
+Catelyn Stark:  And when the fighting is done you will marry one of his daughters. Whichever you prefer. He has a number he thinks will be suitable.
+Robb Stark:  l see. Did you get a look at his daughters?
+Catelyn Stark:  l did.
+Robb Stark:  And?
+Catelyn Stark:  One was – Do you consent?
+Robb Stark:  Can l refuse?
+Catelyn Stark:  Not if you want to cross.
+Robb Stark:  Then l consent.
 Robb leaves the meeting right away. Theon laughs while Catelyn watches.
 We cut to a shot of Robb’s men on the other side of the river, having already crossed the Green Fork of the Trident and heading south.
+--------------
 Back at Castle Black. Jon goes to see Maester Aemon, finding him cutting meat to serve to the ravens.
-Jon Snow: Sam said you wanted to see me?
-Maester Aemon: l did indeed. Perhaps you would be kind enough to assist me. Tell me, did you ever wonder why the men of the Night's Watch take no wives and father no children?
-Jon Snow: No.
-Maester Aemon: So they will not love. Love is the death of duty. lf the day should ever come when your lord father was forced to choose between honor on the one hand and those he loves on the other, what would he do?
-Jon Snow: He would do whatever was right, no matter what.
-Maester Aemon: Then Lord Stark is one man in 10,000. Most of us are not so strong. What is honor compared to a woman's love? And what is duty against the feel of a newborn son in your arms? Or a brother's smile?
-Jon Snow: Sam told you.
-Maester Aemon: We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet sooner or later in every man's life there comes a day when it is not easy. A day when he must choose.
-Jon Snow: And this is my day? ls that what you're saying?
-Maester Aemon: Oh, it hurts, boy. Oh, yes. l know.
-Jon Snow: You do not know. No one knows. l may be a bastard, but he is my father and Robb is my brother.
-Maester Aemon: The gods were cruel when they saw fit to test my vows. They waited till l was old. What could l do when the ravens brought the news from the South: the ruin of my House, the death of my family? l was helpless, blind, frail. But when l heard they had killed my brother's son and his poor son and the children! Even the little children.
-Jon Snow: Who are you?
-Maester Aemon: My father was Maekar, the first of his name. My brother Aegon reigned after him when l had refused the throne. And he was followed by his son Aerys whom they called the Mad King.
-Jon Snow: You're Aemon Targaryen.
-Maester Aemon: l'm a maester of the Citadel, bound in service to Castle Black and the Night's Watch. l will not tell you to stay or go. You must make that choice yourself and live with it for the rest of your days. As l have.
+Jon Snow:  Sam said you wanted to see me?
+Maester Aemon:  l did indeed. Perhaps you would be kind enough to assist me. Tell me, did you ever wonder why the men of the Night's Watch take no wives and father no children?
+Jon Snow:  No.
+Maester Aemon:  So they will not love. Love is the death of duty. lf the day should ever come when your lord father was forced to choose between honor on the one hand and those he loves on the other, what would he do?
+Jon Snow:  He would do whatever was right, no matter what.
+Maester Aemon:  Then Lord Stark is one man in 10,000. Most of us are not so strong. What is honor compared to a woman's love? And what is duty against the feel of a newborn son in your arms? Or a brother's smile?
+Jon Snow:  Sam told you.
+Maester Aemon:  We're all human. Oh, we all do our duty when there's no cost to it. Honor comes easy then. Yet sooner or later in every man's life there comes a day when it is not easy. A day when he must choose.
+Jon Snow:  And this is my day? ls that what you're saying?
+Maester Aemon:  Oh, it hurts, boy. Oh, yes. l know.
+Jon Snow:  You do not know. No one knows. l may be a bastard, but he is my father and Robb is my brother.
+Maester Aemon:  The gods were cruel when they saw fit to test my vows. They waited till l was old. What could l do when the ravens brought the news from the South: the ruin of my House, the death of my family? l was helpless, blind, frail. But when l heard they had killed my brother's son and his poor son and the children! Even the little children.
+Jon Snow:  Who are you?
+Maester Aemon:  My father was Maekar, the first of his name. My brother Aegon reigned after him when l had refused the throne. And he was followed by his son Aerys whom they called the Mad King.
+Jon Snow:  You're Aemon Targaryen.
+Maester Aemon:  l'm a maester of the Citadel, bound in service to Castle Black and the Night's Watch. l will not tell you to stay or go. You must make that choice yourself and live with it for the rest of your days. As l have.
+------------------------------
 Across the Narrow Sea, the Dothraki are on the move. Drogo leads them, but seems to have fainted. Daenerys rides right behind him.
-Daenerys Targaryen: (in Dothraki) My lord… My sun and stars… Drogo.
+Daenerys Targaryen:  (in Dothraki) My lord… My sun and stars… Drogo.
 Drogo falls off his horse.
-Khal Drogo: (in Dothraki) My horse…
-Cohollo: (in Dothraki) Blood of my blood…
-Khal Drogo: (in Dothraki) No, l must ride.
-Qotho: (in Dothraki) He fell from his horse. A Khal who cannot ride is no Khal.
-Daenerys Targaryen: (in Dothraki) He's tired, that's all. He needs to rest. We've ridden far enough today. We'll camp here.
-Qotho: (in Dothraki) This is no place to camp. A woman does not give us orders. Not even a Khaleesi.
-Daenerys Targaryen: (in Dothraki) We'll camp here. Tell them Khal Drogo commanded it.
-Qotho: (in Dothraki) You do not command me, Khaleesi.
-Daenerys Targaryen: (in Dothraki) Find Mirri Maz Duur. Bring her to me.
-Qotho: (in Dothraki) The witch? l'll bring you her head, Khaleesi.
-Daenerys Targaryen: (in Dothraki) Bring her to me unharmed or Khal Drogo will hear why you denied me.
-Qotho: (in Dothraki) Hyah! Hyah!
+Khal Drogo:  (in Dothraki) My horse…
+Cohollo:  (in Dothraki) Blood of my blood…
+Khal Drogo:  (in Dothraki) No, l must ride.
+Qotho:  (in Dothraki) He fell from his horse. A Khal who cannot ride is no Khal.
+Daenerys Targaryen:  (in Dothraki) He's tired, that's all. He needs to rest. We've ridden far enough today. We'll camp here.
+Qotho:  (in Dothraki) This is no place to camp. A woman does not give us orders. Not even a Khaleesi.
+Daenerys Targaryen:  (in Dothraki) We'll camp here. Tell them Khal Drogo commanded it.
+Qotho:  (in Dothraki) You do not command me, Khaleesi.
+Daenerys Targaryen:  (in Dothraki) Find Mirri Maz Duur. Bring her to me.
+Qotho:  (in Dothraki) The witch? l'll bring you her head, Khaleesi.
+Daenerys Targaryen:  (in Dothraki) Bring her to me unharmed or Khal Drogo will hear why you denied me.
+Qotho:  (in Dothraki) Hyah! Hyah!
+---------------------
 At the Lannister camp, Tywin is presiding over lunch/war meeting. Tyrion gets there while everyone’s already seated and eating.
-Kevan Lannister: Our scouts tell us the Stark host has moved south from the Twins with Lord Frey's levies in tow. They're a day's march north.
-Tywin Lannister: The boy may lack experience and sense, but he does have a certain mindless provincial courage.
-Tyrion Lannister: Oh, do continue. Didn't mean to interrupt.
-Tywin Lannister: l do hope your savages are going to be of some use, otherwise we've wasted good steel on them.
-Kevan Lannister: The great hairy one insisted he must have two battleaxes. Heavy black steel, double-sided.
-Tyrion Lannister: Shagga likes axes.
-Tywin Lannister: When the battle commences, you and your wildlings will be in the vanguard.
-Tyrion Lannister: The vanguard? Me and the tribesmen on the front lines?
-Kevan Lannister: They do seem rather ferocious.
-Tyrion Lannister: Ferocious? Last night a Moon Brother stabbed a Stone Crow over a sausage. Three Stone Crows seized the Moon Brother and opened his throat. Bronn managed to keep Shagga from chopping off the dead man's cock, which was fortunate, but even still, Ulf is demanding blood money, which Shagga and Gunthor refuse to pay.
-Tywin Lannister: When soldiers lack discipline, the fault lies with their commander.
-Tyrion Lannister: Surely there are ways to have me killed that would be less detrimental to the war effort.
-Tywin Lannister: There'll be no more discussion on the matter.
-Tyrion Lannister: lt appears l'm not hungry after all. Excuse me, my lords.
+Kevan Lannister:  Our scouts tell us the Stark host has moved south from the Twins with Lord Frey's levies in tow. They're a day's march north.
+Tywin Lannister:  The boy may lack experience and sense, but he does have a certain mindless provincial courage.
+Tyrion Lannister:  Oh, do continue. Didn't mean to interrupt.
+Tywin Lannister:  l do hope your savages are going to be of some use, otherwise we've wasted good steel on them.
+Kevan Lannister:  The great hairy one insisted he must have two battleaxes. Heavy black steel, double-sided.
+Tyrion Lannister:  Shagga likes axes.
+Tywin Lannister:  When the battle commences, you and your wildlings will be in the vanguard.
+Tyrion Lannister:  The vanguard? Me and the tribesmen on the front lines?
+Kevan Lannister:  They do seem rather ferocious.
+Tyrion Lannister:  Ferocious? Last night a Moon Brother stabbed a Stone Crow over a sausage. Three Stone Crows seized the Moon Brother and opened his throat. Bronn managed to keep Shagga from chopping off the dead man's cock, which was fortunate, but even still, Ulf is demanding blood money, which Shagga and Gunthor refuse to pay.
+Tywin Lannister:  When soldiers lack discipline, the fault lies with their commander.
+Tyrion Lannister:  Surely there are ways to have me killed that would be less detrimental to the war effort.
+Tywin Lannister:  There'll be no more discussion on the matter.
+Tyrion Lannister:  lt appears l'm not hungry after all. Excuse me, my lords.
 Back at his tent, Tyrion finds Bronn there with a woman (a prostitute) waiting there too.
-Tyrion Lannister: Where did you find one so pretty at this hour?
-Bronn: l took her.
-Tyrion Lannister: Took her? From whom?
-Bronn: From, uh, Ser What's-his-name? l don't know. Ginger cunt, three tents down.
-Tyrion Lannister: And he didn't have anything to say about it?
-Bronn: He said something.
-Tyrion Lannister: Well, the odds of me living long enough for him to retaliate have just dropped drastically. We'll be at the vanguard tomorrow.
-Bronn: Oh, well. l, uh, think l'll go and find myself one.
+Tyrion Lannister:  Where did you find one so pretty at this hour?
+Bronn:  l took her.
+Tyrion Lannister:  Took her? From whom?
+Bronn:  From, uh, Ser What's-his-name? l don't know. Ginger cunt, three tents down.
+Tyrion Lannister:  And he didn't have anything to say about it?
+Bronn:  He said something.
+Tyrion Lannister:  Well, the odds of me living long enough for him to retaliate have just dropped drastically. We'll be at the vanguard tomorrow.
+Bronn:  Oh, well. l, uh, think l'll go and find myself one.
 Bronn leaves. Tyrion addresses the prostitute.
-Tyrion Lannister: Who are you?
-Prostitute: Who would you like me to be?
-Tyrion Lannister: What did your mother call you?
-Prostitute: Shae. What did your mother call you?
-Tyrion Lannister: My mother died giving birth to me.
-Shae: ls that why l'm here? So we can talk about our mothers?
-Tyrion Lannister: What sort of accent is that?
-Shae: Foreign.
-Tyrion Lannister: For-
-Shae: What do you want from me?
-Tyrion Lannister: What do l want from you? l want you to share my tent. l want you to pour my wine, laugh at my jokes, rub my legs when they're sore after a day's ride. l want you to take no other man to bed for as long as we're together. And l want you to fuck me like it's my last night in this world. Which it may well be.
-Shae: And what do l get?
-Tyrion Lannister: One - safety. No one will hurt you for as long as you're mine. Two - the pleasure of my company, which l have heard is spectacular.
-Shae: Who told you this? Women you paid?
-Tyrion Lannister: And three - more gold than you can spend if you lived a thousand years. Do you accept my proposal?
+Tyrion Lannister:  Who are you?
+Prostitute:  Who would you like me to be?
+Tyrion Lannister:  What did your mother call you?
+Prostitute:  Shae. What did your mother call you?
+Tyrion Lannister:  My mother died giving birth to me.
+Shae:  ls that why l'm here? So we can talk about our mothers?
+Tyrion Lannister:  What sort of accent is that?
+Shae:  Foreign.
+Tyrion Lannister:  For-
+Shae:  What do you want from me?
+Tyrion Lannister:  What do l want from you? l want you to share my tent. l want you to pour my wine, laugh at my jokes, rub my legs when they're sore after a day's ride. l want you to take no other man to bed for as long as we're together. And l want you to fuck me like it's my last night in this world. Which it may well be.
+Shae:  And what do l get?
+Shae:  Who told you this? Women you paid?
 Shae gets undressed and kisses Tyrion.
-Shae: Let's start with your last night in this world.
+Shae:  Let's start with your last night in this world.
+------------------------------
 Back across the Narrow Sea. Drogo is mumbling incoherently in Dothraki (no subtitles provided) inside a tent, Daenerys by his side.
 Jorah Mormont: Khaleesi.
-Daenerys Targaryen: Come. He's very strong. No one understands how strong he is.
+Daenerys Targaryen:  Come. He's very strong. No one understands how strong he is.
 Jorah removes an herbal treatment from Drogo’s wound, revealing it has become infected.
-Jorah Mormont: He will die tonight, Khaleesi.
-Daenerys Targaryen: He can't. He can't. l won't let him.
-Jorah Mormont: Even a queen doesn't have that power. We must go quickly. l've heard there's a good port in Asshai.
-Daenerys Targaryen: l won't leave him.
-Jorah Mormont: He's already gone, Khaleesi.
-Daenerys Targaryen: Even if he dies, why would l run? l am khaleesi, and my my son will be khal after Drogo.
-Jorah Mormont: This isn't Westeros, where men honor blood. Here they only honor strength. There will be fighting after Drogo dies. Whoever wins that fight will be the new khal. He won't want any rivals. Your boy will be plucked from your breast and given to the dogs.
-Daenerys Targaryen: l won't leave him.
+Jorah Mormont:  He will die tonight, Khaleesi.
+Daenerys Targaryen:  He can't. He can't. l won't let him.
+Jorah Mormont:  Even a queen doesn't have that power. We must go quickly. l've heard there's a good port in Asshai.
+Daenerys Targaryen:  l won't leave him.
+Jorah Mormont:  He's already gone, Khaleesi.
+Daenerys Targaryen:  Even if he dies, why would l run? l am khaleesi, and my my son will be khal after Drogo.
+Jorah Mormont:  This isn't Westeros, where men honor blood. Here they only honor strength. There will be fighting after Drogo dies. Whoever wins that fight will be the new khal. He won't want any rivals. Your boy will be plucked from your breast and given to the dogs.
+Daenerys Targaryen:  l won't leave him.
 Mirri Maz Duur enters the tent, and bows to Daenerys. Qotho comes to check on Drogo too, with a few other bloodriders at the entrance.
-Mirri Maz Duur: The wound has festered.
-Qotho: (in Dothraki) You did this, witch. (pulls a dagger out of its sheath)
-Daenerys Targaryen: (in Dothraki) Stop it! l don't want her hurt.
-Qotho: (in Dothraki) No? No? You don't want her hurt? Pray we don't hurt you, too. You let this witch put her hands on our Khal.
-Jorah Mormont: (in Dothraki) Rein in your tongue. She is still your Khaleesi.
-Qotho: (in Dothraki) Only while the blood of my blood lives. When he dies, she is nothing.
-Daenerys Targaryen: (in Dothraki) l have never been nothing. l am the blood of the dragon.
-Qotho: (in Dothraki) The dragons are all dead, Khaleesi.
+Mirri Maz Duur:  The wound has festered.
+Qotho:  (in Dothraki) You did this, witch. (pulls a dagger out of its sheath)
+Daenerys Targaryen:  (in Dothraki) Stop it! l don't want her hurt.
+Qotho:  (in Dothraki) No? No? You don't want her hurt? Pray we don't hurt you, too. You let this witch put her hands on our Khal.
+Jorah Mormont:  (in Dothraki) Rein in your tongue. She is still your Khaleesi.
+Qotho:  (in Dothraki) Only while the blood of my blood lives. When he dies, she is nothing.
+Daenerys Targaryen:  (in Dothraki) l have never been nothing. l am the blood of the dragon.
+Qotho:  (in Dothraki) The dragons are all dead, Khaleesi.
 Qotho and the other Dothraki leave.
-Daenerys Targaryen: l think you should wear your armor tonight, ser.
-Jorah Mormont: l think you're right.
+Daenerys Targaryen:  l think you should wear your armor tonight, ser.
+Jorah Mormont:  l think you're right.
 Jorah leaves the tent.
-Mirri Maz Duur: You've saved me once more.
-Daenerys Targaryen: And now you must save him.
-Mirri Maz Duur: He's beyond the healer's skills. All l can do is ease his path.
-Daenerys Targaryen: Save him and l will free you. l swear it. You must know a way. Some – some magic.
-Mirri Maz Duur: There is a spell. Some would say death is cleaner.
-Daenerys Targaryen: Do it. Save him.
-Mirri Maz Duur: There is a price.
-Daenerys Targaryen: You'll have gold, whatever you want.
-Mirri Maz Duur: lt's not a matter of gold. This is blood magic. Only death pays for life.
-Daenerys Targaryen: My death?
-Mirri Maz Duur: No, not your death, Khaleesi. Bring me his horse.
+Mirri Maz Duur:  You've saved me once more.
+Daenerys Targaryen:  And now you must save him.
+Mirri Maz Duur:  He's beyond the healer's skills. All l can do is ease his path.
+Daenerys Targaryen:  Save him and l will free you. l swear it. You must know a way. Some – some magic.
+Mirri Maz Duur:  There is a spell. Some would say death is cleaner.
+Daenerys Targaryen:  Do it. Save him.
+Mirri Maz Duur:  There is a price.
+Daenerys Targaryen:   You'll have gold, whatever you want.
+Mirri Maz Duur:  lt's not a matter of gold. This is blood magic. Only death pays for life.
+Daenerys Targaryen:  My death?
+Mirri Maz Duur:  No, not your death, Khaleesi. Bring me his horse.
 Daenerys signals to Irri, who leaves to find the horse. We cut to the horse being taken by a rope into to the tent.
-Rakharo: Khaleesi, do not do this thing. Let me kill this witch.
-Daenerys Targaryen: Kill her and you kill your khal.
-Rakharo: This is blood magic. lt is forbidden.
-Daenerys Targaryen: l am your khaleesi. l tell you what is forbidden.
+Rakharo:  Khaleesi, do not do this thing. Let me kill this witch.
+Daenerys Targaryen:   Kill her and you kill your khal.
+Rakharo:  This is blood magic. lt is forbidden.
+Daenerys Targaryen:  l am your khaleesi. l tell you what is forbidden.
 Mirri Maz Duur starts an incantation
-Mirri Maz Duur: Go. Now.
-Daenerys Targaryen: Take her and leave. Take her!
-Mirri Maz Duur: You must go also, lady. Once l begin to sing, no one must enter the tent. The dead will dance here tonight.
+Mirri Maz Duur:  Go. Now.
+Daenerys Targaryen:  Take her and leave. Take her!
+Mirri Maz Duur:  You must go also, lady. Once l begin to sing, no one must enter the tent. The dead will dance here tonight.
 Daenerys caresses Drogo’s forehand as she moves to leave.
-Daenerys Targaryen: No one will enter.
+Daenerys Targaryen:  No one will enter.
 Mirri Maz Duur slits the horse’s throat. Blood spills all over Drogo’s chest and Daenerys’ face.
-Daenerys Targaryen: Bring him back to me.
+Daenerys Targaryen:  Bring him back to me.
 Daenerys leaves the tent as the horse collapses to the ground, dead. Jorah comes to her.
 What have you done?
-Daenerys Targaryen: l have to save him.
+Daenerys Targaryen:  l have to save him.
 We could have been 10 miles away from here by now, on the way to Asshai. You would have been safe.
-Qotho: (in Dothraki) This must not be.
-Daenerys Targaryen: (in Dothraki) This must be.
-Qotho: (in Dothraki) Witch.
-Rakharo: (in Dothraki) Nothing good will come of this.
+Qotho:  (in Dothraki) This must not be.
+Daenerys Targaryen:  (in Dothraki) This must be.
+Qotho:  (in Dothraki) Witch.
+Rakharo:  (in Dothraki) Nothing good will come of this.
 Rakharo tries to talk to Qotho, but gets sucker punched in the face.
-Daenerys Targaryen: (in Dothraki) No, you can't.
+Daenerys Targaryen:  (in Dothraki) No, you can't.
 Qotho unsheaths his dagger and moves past Daenerys, pushing her towards the ground. Daenerys hits the ground with her belly.
-Irri: Khaleesi!
-Jorah Mormont: (in Dothraki) No further, horselord.
+Irri:  Khaleesi!
+Jorah Mormont:  (in Dothraki) No further, horselord.
 Daenerys starts moaning in pain, while we hear Mirri Maz Duur’s incantations in the background. Qotho turns around and lunges towards Jorah. The two fight, but Jorah gains the upper hand and kills him with a sword blow to the face.
-Jorah Mormont: Are you hurt?
+Jorah Mormont:  Are you hurt?
 Daenerys Targaryen: The baby –
-Jorah Mormont: Hmm?
+Jorah Mormont:  Hmm?
 Daenerys Targaryen: … is coming.
-Jorah Mormont: Fetch the midwives.
-Rakharo: They will not come. They say she is cursed.
-Jorah Mormont: They'll come or l'll have their heads.
-Rakharo: The witch - she can bring baby. l hear her say so.
+Jorah Mormont:  Fetch the midwives.
+Rakharo:  They will not come. They say she is cursed.
+Jorah Mormont:  They'll come or l'll have their heads.
 Jorah moves inside the tent with Daenerys in his arms, as screams and incantations from the inside start getting louder and louder in tone.
+-----------------------
 At the Lannister camp, Tyrion, Bronn and Shae are drinking together inside Tyrion’s tent at night, before the battle.
-Shae: Are you in agony, my lion?
-Tyrion Lannister: No.
-Shae: You look like you're in agony. The fire is burning your pretty soft skin.
-Tyrion Lannister: Ah! Damn you, woman. Are you immune to pain?
-Shae: Just used to it.
-Bronn: Drink.
-Tyrion Lannister: Let's play a new game.
-Bronn: There's a Braavosi knife game l could teach you.
-Tyrion Lannister: Does it involve the potential for losing fingers?
-Bronn: Not if you win.
-Tyrion Lannister: No! No fire games, no knife games. Let's do something l'm good at.
-Shae: What are you good at?
-Tyrion Lannister: l happen to be a great judge of character.
-Bronn: This sounds like a boring game.
-Tyrion Lannister: lt's not. Here's how it works - l make a statement about your past. lf l'm right, you drink. lf l'm wrong, l drink. And no lying. l'll know if you're lying.
-Shae: l don't want to play this game.
-Tyrion Lannister: Fine. Bronn first. Your father beat you.
+Shae:  Are you in agony, my lion?
+Tyrion Lannister:  No.
+Shae:  You look like you're in agony. The fire is burning your pretty soft skin.
+Tyrion Lannister:  Ah! Damn you, woman. Are you immune to pain?
+Shae:  Just used to it.
+Bronn:   Drink.
+Tyrion Lannister:  Let's play a new game.
+Bronn:  There's a Braavosi knife game l could teach you.
+Tyrion Lannister:  Does it involve the potential for losing fingers?
+Bronn:  Not if you win.
+Tyrion Lannister:  No! No fire games, no knife games. Let's do something l'm good at.
+Shae:  What are you good at?
+Tyrion Lannister:  l happen to be a great judge of character.
+Bronn:  This sounds like a boring game.
+Shae:  l don't want to play this game.
+Tyrion Lannister:  Fine. Bronn first. Your father beat you.
 Bronn drinks.
-Bronn: But my mother hit harder.
-Tyrion Lannister: You killed your first man before you were 12.
-Bronn: lt was a woman. (Tyrion drinks. Shae looks at Bronn, surprised.) She swung an axe at me.
-Tyrion Lannister: You've been north of the Wall.
-Shae: What brought you up there?
-Bronn: Work.
-Tyrion Lannister: And you once loved a woman many years ago, but it turned out badly so you've never let yourself love again. Oh, wait, that's me. (Tyrion drinks) Your turn, my mysterious foreign beauty.
-Shae: l don't want to play.
-Tyrion Lannister: lt's fun! Look at the fun we're having. Your mother was a whore.
-Shae: Drink.
+Bronn:  But my mother hit harder.
+Tyrion Lannister:  You killed your first man before you were 12.
+Bronn:  lt was a woman. (Tyrion drinks. Shae looks at Bronn, surprised.) She swung an axe at me.
+Tyrion Lannister:  You've been north of the Wall.
+Shae:  What brought you up there?
+Bronn:  Work.
+Tyrion Lannister:  And you once loved a woman many years ago, but it turned out badly so you've never let yourself love again. Oh, wait, that's me. (Tyrion drinks) Your turn, my mysterious foreign beauty.
+Shae:  l don't want to play.
+Tyrion Lannister:  lt's fun! Look at the fun we're having. Your mother was a whore.
+Shae:  Drink.
 Tyrion drinks.
-Tyrion Lannister: All right. Your father left the family when you were very young, never to return.
-Shae: Drink.
-Tyrion Lannister: And we've established the rules about lying?
-Shae: Drink!
+Tyrion Lannister:  All right. Your father left the family when you were very young, never to return.
+Shae:  Drink.
+Tyrion Lannister:  And we've established the rules about lying?
+Shae:  Drink!
 Tyrion drinks.
-Tyrion Lannister: You wanted a different life. You came from somewhere and you wanted to be elsewhere.
-Bronn: The whole shit-stained world could drink off that one.
-Tyrion Lannister: So, specifics… You wanted to be elsewhere, but how would you get there? l don't believe the life of the Silent Sisters is for you. So, what's a lowborn girl to do?
-Shae: Drink.
-Tyrion Lannister: Are you sure –
-Shae: Drink! And don't talk about my mother and father ever, or l will carve your eyes from your head.
-Tyrion Lannister: My dear lady, if l have offended you, l apologize.
-Shae: My turn.
-Tyrion Lannister: Fine, fine. Ask away. Try to penetrate the enigma that is me.
-Shae: Who were you in love with?
-Tyrion Lannister: That's not how the game works.
-Shae: l don't care the way the game works.
-Bronn: Our lord here used to be married.
-Shae: Married?
-Tyrion Lannister: How did you hear that?
-Bronn: You hear lots of things playing dice with Lannister soldiers.
-Tyrion Lannister: Another night, perhaps.
-Shae: Not another night. This night.
-Tyrion Lannister: lt's not a pleasant story.
-Shae: Oh, maybe l will cry.
-Bronn: l'm guessing the lady and l can tell more unpleasant stories than your lordship.
-Tyrion Lannister: So l was 16. My brother Jaime and l were riding, when we heard a scream. She ran out onto the road, clothes half torn off, with two men on her heels. Jaime scared away the men easily enough, while l wrapped her in my cloak. She was too scared to send off on her own, so while Jaime hunted down the rapers l took her to the nearest inn and fed her. Her name was Tysha. She was a wheelwright's orphan. And she was hungry. Together we finished off three chickens and a flagon of wine. lmpossible as it seems, there was a time when l was unaccustomed to wine. l forgot how afraid l was around girls. how l was always waiting for them to laugh at me or look away embarrassed, or ask me about my tall, handsome brother. l forgot about everything but Tysha. And somehow l found myself in her bed.
-Bronn: For three chickens, l should hope so.
-Tyrion Lannister: lt didn't last long. l didn't know what the hell l was doing. But she was good to me. She kissed me afterwards and sang me a song. And by morning l was deep enough in love to ask for her hand. A few lies, a few gold coins, one drunken septon and there you have it - man and wife. For a fortnight anyway, until the septon sobered up and told my father.
-Bronn: Well, l imagine that was the end of all that.
-Tyrion Lannister: Not quite. First, my father had Jaime tell me the truth. The girl was a whore, you see. Jaime had arranged the whole thing - the road, the rapers, all of it. He thought it was time l had a woman. After my brother confessed, my father brought in my wife and gave her to his guards. He paid her well - a silver for each man. How many whores command that kind of price? He brought me into the barracks and made me watch. By the end, she had so much silver that the coins were slipping through her fingers and rolling on to the floor.
-Bronn: l would have killed the man who did that to me.
-Shae: You should have known she was a whore.
-Tyrion Lannister: Really? l was 16, drunk and in love.
-Shae: A girl who was almost raped doesn't invite another man into her bed two hours later.
-Tyrion Lannister: As l said, l was young and stupid.
-Shae: You are still young and stupid.
+Tyrion Lannister:  You wanted a different life. You came from somewhere and you wanted to be elsewhere.
+Bronn:  The whole shit-stained world could drink off that one.
+Tyrion Lannister:  So, specifics… You wanted to be elsewhere, but how would you get there? l don't believe the life of the Silent Sisters is for you. So, what's a lowborn girl to do?
+Shae:  Drink.
+Tyrion Lannister:  Are you sure –
+Shae:  Drink! And don't talk about my mother and father ever, or l will carve your eyes from your head.
+Tyrion Lannister:  My dear lady, if l have offended you, l apologize.
+Shae:  My turn.
+Tyrion Lannister:  Fine, fine. Ask away. Try to penetrate the enigma that is me.
+Shae:  Who were you in love with?
+Tyrion Lannister:  That's not how the game works.
+Shae:  l don't care the way the game works.
+Bronn:  Our lord here used to be married.
+Shae:  Married?
+Tyrion Lannister:  How did you hear that?
+Bronn:  You hear lots of things playing dice with Lannister soldiers.
+Tyrion Lannister:  Another night, perhaps.
+Shae:  Not another night. This night.
+Tyrion Lannister:  lt's not a pleasant story.
+Shae:  Oh, maybe l will cry.
+Bronn:  l'm guessing the lady and l can tell more unpleasant stories than your lordship.
+Tyrion Lannister:  So l was 16. My brother Jaime and l were riding, when we heard a scream. She ran out onto the road, clothes half torn off, with two men on her heels. Jaime scared away the men easily enough, while l wrapped her in my cloak. She was too scared to send off on her own, so while Jaime hunted down the rapers l took her to the nearest inn and fed her. Her name was Tysha. She was a wheelwright's orphan. And she was hungry. Together we finished off three chickens and a flagon of wine. lmpossible as it seems, there was a time when l was unaccustomed to wine. l forgot how afraid l was around girls. how l was always waiting for them to laugh at me or look away embarrassed, or ask me about my tall, handsome brother. l forgot about everything but Tysha. And somehow l found myself in her bed.
+Bronn:  For three chickens, l should hope so.
+Bronn:  Well, l imagine that was the end of all that.
+Bronn:  l would have killed the man who did that to me.
+Shae:  You should have known she was a whore.
+Tyrion Lannister:  Really? l was 16, drunk and in love.
+Shae:  A girl who was almost raped doesn't invite another man into her bed two hours later.
+Tyrion Lannister:  As l said, l was young and stupid.
+Shae:  You are still young and stupid.
 Shae starts kissing Tyrion, causing Bronn to leave the tent. The next day, the Lannisters ride to battle; Bronn returns to Tyrion’s tent to wake him and Shae up.
-Tyrion Lannister: What is it? What do you want?
-Bronn: You're sleeping through the war.
-Tyrion Lannister: What?
-Bronn: They stole a night's march on us. They're a mile north.
-Tyrion Lannister: Get my squire!
-Bronn: You don't have a squire.
-Tyrion Lannister: lf l die, weep for me.
-Shae: You'll be dead. How will you know?
-Tyrion Lannister: l'll know.
+Tyrion Lannister:  What is it? What do you want?
+Bronn:  You're sleeping through the war.
+Tyrion Lannister:  What?
+Bronn:  They stole a night's march on us. They're a mile north.
+Tyrion Lannister:  Get my squire!
+Bronn:  You don't have a squire.
+Tyrion Lannister:  lf l die, weep for me.
+Shae:  You'll be dead. How will you know?
+Tyrion Lannister:  l'll know.
 Tyrion leaves the tent, fully armoured.
 Lannister soldier : Watch out! Move!
 Lannister soldier : Out of the way! Move aside!
-Bronn: Stay low.
-Tyrion Lannister: Stay low?
-Bronn: lf you're lucky, no one will notice you.
-Tyrion Lannister: l was born lucky. Tribesmen of the Vale, gather round! Stone Crows! Black Ears! Burned Men! Moon Brothers! And Painted Dogs! Your dominion over the Vale begins now! Onward, to claim what is yours!
+Bronn:  Stay low.
+Tyrion Lannister:  Stay low?
+Bronn:  lf you're lucky, no one will notice you.
+Tyrion Lannister:  l was born lucky. Tribesmen of the Vale, gather round! Stone Crows! Black Ears! Burned Men! Moon Brothers! And Painted Dogs! Your dominion over the Vale begins now! Onward, to claim what is yours!
 Tribesmen of the Vale (chanting): Half man! Half man! Half man! Half man! Half man! Half man!
-Tyrion Lannister: To battle!
+Tyrion Lannister:  To battle!
 Tyrion rides to battle with the rest, but turns around quickly after and is hit with a mace from one of the Tribesmen. He passes out. Later, we cut to the end of the battle – dead bodies and swords piling on the ground. Tyrion wakes up to find Bronn talking to him as he’s carried on a wheelbarrow.
-Bronn: You're a shit warrior.
-Tyrion Lannister: l'm alive?
-Bronn: You're alive.
-Tyrion Lannister: Did we win?
-Bronn: We wouldn't be having this conversation if we didn't.
-Tyrion Lannister: How did our tribesmen do?
-Bronn: Yeah, good.
-Tyrion Lannister: lt's nice to see them getting along.
+Bronn:  You're a shit warrior.
+Tyrion Lannister:  l'm alive?
+Bronn:  You're alive.
+Tyrion Lannister:  Did we win?
+Bronn:  We wouldn't be having this conversation if we didn't.
+Tyrion Lannister:  How did our tribesmen do?
+Bronn:  Yeah, good.
+Tyrion Lannister:  lt's nice to see them getting along.
 Tywin shows up next to them, fully armoured and on horseback.
-Tywin Lannister: You're wounded.
-Tyrion Lannister: Good of you to notice. l hear we won.
-Tywin Lannister: Huh! The scouts were wrong. There were 2,000 Stark bannermen, not 20 [thousand].
-Tyrion Lannister: Did we get the Stark boy, at least?
-Tywin Lannister: He wasn't here.
-Tyrion Lannister: Where was he?
-Tywin Lannister: With his other 18,000 men.
-Tyrion Lannister: And where are they?
+Tywin Lannister:  You're wounded.
+Tyrion Lannister:  Good of you to notice. l hear we won.
+Tywin Lannister:  Huh! The scouts were wrong. There were 2,000 Stark bannermen, not 20 [thousand].
+Tyrion Lannister:  Did we get the Stark boy, at least?
+Tywin Lannister:  He wasn't here.
+Tyrion Lannister:  Where was he?
+Tywin Lannister:  With his other 18,000 men.
+Tyrion Lannister:  And where are they?
+--------------
 We cut to Catelyn and Rodrik Cassel overlooking the Trident from a safe distance at higher ground.
-Rodrik Cassel: We should go, my lady.
-Catelyn Stark: No!
-Rodrik Cassel: My lady!
-Stark bannermen: Hyah! Hyah!
+Rodrik Cassel:  We should go, my lady.
+Catelyn Stark:  No!
+Rodrik Cassel:  My lady!
+Stark bannermen:  Hyah! Hyah!
 The Stark host arrives at the clearing. Robb is amongst them, and he comes carrying a tied and bound Jaime Lannister.
-Robb Stark: By the time they knew what was happening, it had already happened.
-Jaime Lannister: Lady Stark. l'd offer you my sword, but l seem to have lost it.
-Catelyn Stark: lt is not your sword l want. Give me my daughters back. Give me my husband.
-Jaime Lannister: l've lost them too, l'm afraid.
-Theon Greyjoy: Kill him, Robb. Send his head to his father. He cut down ten of our men. You saw him.
-Robb Stark: He's more use to us alive than dead.
-Catelyn Stark: Take him away and put him in irons.
-Jaime Lannister: We could end this war right now, boy, save thousands of lives. You fight for the Starks, l fight for the Lannisters. Swords or lances, teeth, nails - choose your weapons and let's end this here and now.
-Robb Stark: lf we do it your way, Kingslayer, you'd win. We're not doing it your way.
-Greatjon Umber: Come on, pretty man.
-Robb Stark: l sent 2,000 men to their graves today.
-Theon Greyjoy: The bards will sing songs of their sacrifice.
-Robb Stark: Aye. But the dead won't hear them. (making a speech to his bannermen) One victory does not make us conquerors. Did we free my father? Did we rescue my sisters from the queen? Did we free the North from those who want us on our knees? This war is far from over.
+Robb Stark:  By the time they knew what was happening, it had already happened.
+Jaime Lannister:  Lady Stark. l'd offer you my sword, but l seem to have lost it.
+Catelyn Stark:  lt is not your sword l want. Give me my daughters back. Give me my husband.
+Jaime Lannister:  l've lost them too, l'm afraid.
+Theon Greyjoy:  Kill him, Robb. Send his head to his father. He cut down ten of our men. You saw him.
+Robb Stark:  He's more use to us alive than dead.
+Catelyn Stark:  Take him away and put him in irons.
+Robb Stark:  lf we do it your way, Kingslayer, you'd win. We're not doing it your way.
+Greatjon Umber:  Come on, pretty man.
+Robb Stark:  l sent 2,000 men to their graves today.
+Theon Greyjoy:  The bards will sing songs of their sacrifice.
+Robb Stark:  Aye. But the dead won't hear them. (making a speech to his bannermen) One victory does not make us conquerors. Did we free my father? Did we rescue my sisters from the queen? Did we free the North from those who want us on our knees? This war is far from over.
+-----------------------
 At King’s Landing, Arya is chasing down pigeons on the street while staying hidden from the Kingsguard. She catches one and snaps its neck. Soon afterwards, she sees a baker’s stall with pastries on display.
-Arya Stark: Could l have one? A lemon one or any of them.
-King’s Landing Baker: Three coppers.
-Arya Stark: How about a nice fat pigeon?
-King’s Landing Baker: Oh, piss off now. Go on.
-Arya Stark: Do you have any stale ones from yesterday? Or any burnt ones?
-King’s Landing Baker: Piss off!
+Arya Stark:  Could l have one? A lemon one or any of them.
+King’s Landing Baker:  Three coppers.
+Arya Stark:  How about a nice fat pigeon?
+King’s Landing Baker:  Oh, piss off now. Go on.
+Arya Stark:  Do you have any stale ones from yesterday? Or any burnt ones?
+King’s Landing Baker:  Piss off!
 Everyone starts walking up the street, leaving Arya confused. Two street urchins run past her up the stairs.
-Arya Stark: Hey, where's everyone going? What's happening?
-Street Urchin: They're taking him to the Sept of Baelor.
-Arya Stark: Who?
-Street Urchin: The Hand of the King.
+Arya Stark:  Hey, where's everyone going? What's happening?
+Street Urchin:  They're taking him to the Sept of Baelor.
+Arya Stark:  Who?
+Street Urchin:  The Hand of the King.
 Arya follows the crowd to the Sept of Baelor. She climbs up the pedestal of Baelor’s statue to get a better view of her surroundings. We cut to Ned Stark being taken from the sept and into the courtyard, in full view of the gathered populace; Baelor’s statue is seen on the background to his left. Ned catches Arya’s eye at the foot of the statue.
-Populace: Traitor! Coward!
+Populace:  Traitor! Coward!
 Ned is taken across the populace and runs into Yoren of the Night’s Watch.
-Eddark Stark: Baelor!
+Eddark Stark:  Baelor!
 Yoren looks towards the statue knowingly.
-Populace: Traitor! Traitor!
+Populace:  Traitor! Traitor!
 Ned is taken to a raised platform where Sansa, Cersei, Joffrey, Littlefinger are standing. Sansa smiles warmly at her father as he addresses the crowd.
-Eddark Stark: I am Eddard Stark, Lord of Winterfell and Hand of the King. I come before you to confess my treason in the sight of Gods and men. I betrayed the faith of my King and the trust of my friend Robert. I swore to protect and defend his children, but before his blood was cold I plotted to murder his son and seize the Throne for myself. Let the High Septon and Baelor the Blessed bear witness to what I say: Joffrey Baratheon is the one true heir to the Iron Throne, by the grace of all the Gods, Lord of the Seven Kingdoms and Protector of the Realm.
-Grand Maester Pycelle: As we sin, so do we suffer. This man has confessed his crimes in sight of Gods and men. The Gods are just but beloved Baelor taught us they can also be merciful. What is to be done with this traitor, Your Grace?
-Joffrey Baratheon: My mother wishes me to let Lord Eddard join The Night's Watch. Stripped of all titles and powers, he would serve the realm in permanent exile. And My Lady Sansa has begged mercy for her father. But they have the soft hearts of women. So long as I am your King, treason shall never go unpunished. Ser Ilyn, bring me his head!
+Eddark Stark:  I am Eddard Stark, Lord of Winterfell and Hand of the King. I come before you to confess my treason in the sight of Gods and men. I betrayed the faith of my King and the trust of my friend Robert. I swore to protect and defend his children, but before his blood was cold I plotted to murder his son and seize the Throne for myself. Let the High Septon and Baelor the Blessed bear witness to what I say: Joffrey Baratheon is the one true heir to the Iron Throne, by the grace of all the Gods, Lord of the Seven Kingdoms and Protector of the Realm.
+Grand Maester Pycelle:  As we sin, so do we suffer. This man has confessed his crimes in sight of Gods and men. The Gods are just but beloved Baelor taught us they can also be merciful. What is to be done with this traitor, Your Grace?
+Joffrey Baratheon:  My mother wishes me to let Lord Eddard join The Night's Watch. Stripped of all titles and powers, he would serve the realm in permanent exile. And My Lady Sansa has begged mercy for her father. But they have the soft hearts of women. So long as I am your King, treason shall never go unpunished. Ser Ilyn, bring me his head!
 The townsfolk roar with approval; Arya leaves the pedestal and runs towards the commotion. Sansa gets visibly distraught and starts yelling as a member of the Kingsguard holds her back.
-Sansa Stark: No, stop! Please, someone stop him!
+Sansa Stark:  No, stop! Please, someone stop him!
 Cersei Baratheon: My son, this is madness.
 Populace: Put him down!
 Varys runs to the platform to talk to Cersei and Joffrey, Ilyn Payne puts on his executioner’s mask. Arya marches towards the courtyard but is grabbed by the arm by Yoren.
 Yoren: Don't look!
-Arya Stark: Let me go.
-Yoren: Shut your mouth. Look at me.
-Sansa Stark: Stop him, stop!
+Arya Stark:  Let me go.
+Yoren:  Shut your mouth. Look at me.
+Sansa Stark:  Stop him, stop!
 From Ned’s perspective, the roars of the crowd become almost silent; he looks towards Baelor’s statue but finds no one there. He lowers his head in recognition of his fate as the sound of Payne’s longsword cuts through the hushed silence. We see the sword swing until it reaches his head, with a direct cut to Arya as Yoren prevents her from seeing the actual execution. Arya looks at the sky; a flock of pigeons flies away from the courtyard as she holds her head against Yoren’s chest; she sighs heavily, and the screen cuts to black.

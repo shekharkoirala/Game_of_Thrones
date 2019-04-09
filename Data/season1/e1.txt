@@ -303,7 +303,6 @@ JON: What the hell do you know about being a bastard?
 TYRION: All dwarves are bastards in their fathers’ eyes.
 [TYRION departs. JON picks up his sword and attacks the dummy with new ferocity.]
 [The scene shifts back to the banquet, in full raucous swing. NED is off to himself; BENJEN comes up to him.]
-BENJEN: You at a feast -- It’s like a bear in a trap.
 NED: The boy I beheaded. Did you know him?
 BENJEN: Of course I did. Just a lad. But he was tough, Ned. A true Ranger.
 NED: He was talking madness. Said the Walkers slaughtered his friends.
@@ -421,8 +420,10 @@ CERSEI: He saw us.
 JAIME: It’s all right. It’s all right.
 CERSEI: He saw us!
 JAIME: I heard you the first time. (To BRAN) Quite the little climber, aren’t you? How old are you, boy?
-BRAN: Ten.
+BRAN: Ten
+.
 JAIME: Ten.
 [JAIME looks at CERSEI, who gazes back imploringly.]
 JAIME: The things I do for love.
 [He shoves BRAN out the window.]
+/ BLACKOUT /

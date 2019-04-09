@@ -6,7 +6,7 @@ Theon Greyjoy: Really? If I was cooped up all day with no one but this old bat f
 Bran Stark: I don't want to go.
 Theon Greyjoy: Neither do I. But Robb's Lord of Winterfell, which means I do what he says and you do what I say. Hodor! (Hodor enters, hoisting up Bran and carrying him away) Help Bran down the hall.
 Tyrion standing in front of Robb and Maester Luwin inside the Winterfell castle.
-Tyrion Lannister: I must say I received a slightly warmer welcome on my last visit.
+Tyrion Lannister:  I must say I received a slightly warmer welcome on my last visit.
 Robb Stark: Any man of the Night's Watch is welcome at Winterfell.
 Tyrion Lannister: Any man of the Night's Watch, but not I, eh, boy?
 Robb Stark: I'm not your boy, Lannister. I'm Lord of Winterfell while my father is away.
@@ -15,7 +15,7 @@ Hodor enters carrying Bran.
 Tyrion Lannister: So it's true. Hello Bran. Do you remember anything about what happened?
 Maester Luwin: He has no memory of that day.
 Tyrion Lannister: Curious.
-Robb Stark: Why are you here?
+Robb Stark:  Why are you here?
 Tyrion Lannister: Would your charming companion be so kind as to kneel? My neck is beginning to hurt.
 Bran Stark: Kneel, Hodor.
 Tyrion Lannister: Do you like to ride, Bran?
@@ -64,14 +64,14 @@ Alliser Thorne: We're done for today. Go clean the armory. That's all you're goo
 Pyp: Well fought!
 Grenn: Piss off.
 Samwell Tarly: Did he hurt you?
-Jon Snow: I've had worse.
+Jon Snow:  I've had worse.
 Samwell Tarly: You can call me Sam... If you want. My mother calls me Sam.
 Jon Snow: It's not going to get any easier, you know? You'll have to defend yourself.
 Grenn: Why didn't you get up and fight?
 Samwell Tarly: I wanted to. I just couldn't.
 Grenn: Why not?
 Samwell Tarly: I'm a coward. My father always says so.
-Jon Snow: The Wall's no place for cowards.
+Jon Snow:  The Wall's no place for cowards.
 Samwell Tarly: You're right. I'm sorry. I just... Wanted to thank you.
 Grenn: A bloody coward. People saw us talking to him. Now they'll think we're cowards too.
 Pyp: You're too stupid to be a coward.
@@ -80,7 +80,6 @@ Pyp: Quick now, before summer's over.
 Grenn: Come on here!
 Daenerys and the horde have arrived to the Dothraki homeland.
 Jorah Mormont: Vaes Dothrak. The city of the horselords.
-Viserys Targaryen: A pile of mud. Mud and shit and twigs - best these savages can do.
 Daenerys Targaryen: These are my people now. You shouldn't call them savages.
 Viserys Targaryen: I'll call them what I like, because they're my people. This is my army. Khal Drogo is marching the wrong way with my army.
 Daenerys Targaryen: If my brother was given an army of Dothraki, could you conquer the Seven Kingdoms?
@@ -156,9 +155,9 @@ Janos Slynt: Call it what you will, Lord Stark Ser, the city is packed with peop
 Varys: Dreadful.
 Renly Baratheon: If you can't keep the King's peace, perhaps the City Watch should be commanded by someone who can.
 Janos Slynt: I need more men.
-Eddard Stark: You'll get 50. Lord Baelish will see it paid for.
+Eddard Stark:  You'll get 50. Lord Baelish will see it paid for.
 Petyr Baelish: I will?
-Eddard Stark: You found money for a champion's purse, you can find money to keep the peace. I'll also give you 20 of my household guards till the crowds have left.
+Eddard Stark:  You found money for a champion's purse, you can find money to keep the peace. I'll also give you 20 of my household guards till the crowds have left.
 Janos Slynt: Thank you, my Lord Hand Ser. They will be put to good use.
 Eddard Stark: The sooner this is over, the better.
 Varys: The realm prospers from such events, my Lord. They give the great a chance at glory, and the lowly a respite from their woes.
@@ -166,46 +165,46 @@ Petyr Baelish: And every inn in the city is full and the whores are walking bow-
 Eddard Stark: I'm sure the tourney puts coins in many a pocket. Now... If there's nothing else, my Lords?
 Eddard dismisses the council, as they are all leaving, Ned stops Pycelle.
 Grand Maester Pycelle: This heat. On days like this, I envy you northerners your summer snows. Until tomorrow my Lord.
-Eddard Stark: I've been hoping to talk to you about Jon Arryn.
+Eddard Stark:  I've been hoping to talk to you about Jon Arryn.
 Grand Maester Pycelle: Lord Arryn? His death was a great sadness to all of us. I took personal charge of his care, but I could not save him. His sickness struck him very hard and very fast. I saw him in my chambers just the night before he passed. Lord Jon often came to me for counsel.
-Eddard Stark: Why?
+Eddard Stark:  Why?
 Grand Maester Pycelle: I have been Grand Maester for many years. Kings and Hands have come to me for advice since...
-Eddard Stark: What did Jon want the night before he died?
+Eddard Stark:  What did Jon want the night before he died?
 Grand Maester Pycelle: He came inquiring after a book.
-Eddard Stark: A book? What book?
+Eddard Stark:  A book? What book?
 Grand Maester Pycelle: I fear it would be of little interest to you, my Lord. A ponderous tome.
 Eddard Stark: I'd like to read it.
 Now in Pycelle’s room, he hands a book to Ned.
 Grand Maester Pycelle: "The lineages and histories of the great houses of the Seven Kingdoms, with descriptions of many high lords and noble ladies and their children."
-Eddard Stark: "Harkon Umber, first of his name, born to lord Hother Umber and lady Amaryllis Umber in the 183rd year after Aegon's landing, at the last hearth. Blue of eye, brown of hair and fair complected, died in his 14th year of a wound sustained
+Eddard Stark:  "Harkon Umber, first of his name, born to lord Hother Umber and lady Amaryllis Umber in the 183rd year after Aegon's landing, at the last hearth. Blue of eye, brown of hair and fair complected, died in his 14th year of a wound sustained
 in a bear hunt."
 Grand Maester Pycelle: As I said, my Lord, a ponderous read.
-Eddard Stark: Did Jon Arryn tell you what he wanted with it?
+Eddard Stark:  Did Jon Arryn tell you what he wanted with it?
 Grand Maester Pycelle: He did not, my Lord. And I did not presume to ask.
-Eddard Stark: Jon's death...
+Eddard Stark:  Jon's death...
 Grand Maester Pycelle: Such a tragedy.
-Eddard Stark: Did he say anything to you during his final hours?
+Eddard Stark:  Did he say anything to you during his final hours?
 Grand Maester Pycelle:Nothing of import, my Lord. There was one phrase he kept repeating: "The seed is strong," I think it was.
-Eddard Stark: "The seed is strong"? What does that mean?
+Eddard Stark:  "The seed is strong"? What does that mean?
 Grand Maester Pycelle: The dying mind is a demented mind, Lord Stark. For all the weight they're given, last words are usually as significant as first words.
 Eddard Stark: And you're quite certain he died of a natural illness?
 Grand Maester Pycelle: What else could it be?
-Eddard Stark: Poison.
+Eddard Stark:  Poison.
 Grand Maester Pycelle: A disturbing thought. I don't think it likely. The Hand was loved by all. What sort of man would dare...
-Eddard Stark: I've heard it said that poison is a woman's weapon.
+Eddard Stark:  I've heard it said that poison is a woman's weapon.
 Grand Maester Pycelle: Yes. Women, cravens... and eunuchs. Did you know that lord Varys is a eunuch?
-Eddard Stark: Everybody knows that.
+Eddard Stark:  Everybody knows that.
 Grand Maester Pycelle: Yes, yes, of course. How that sort of person found himself on the King's Council, I will never know.
 Eddard Stark: I've taken enough of your time.
 Grand Maester Pycelle: No trouble at all, my Lord. It's a great honor...
-Eddard Stark: Thank you. I'll find my own way out.
+Eddard Stark:  Thank you. I'll find my own way out.
 Ned is walking back to his chambers as he sees Arya balancing on one foot in front of a staircase.
 Arya Stark: Syrio says a water dancer can stand on one toe for hours.
-Eddard Stark: It's a hard fall down these steps.
+Eddard Stark:  It's a hard fall down these steps.
 Arya Stark: Syrio says every hurt is a lesson and every lesson makes you better. Tomorrow I'm going to be chasing cats.
-Eddard Stark: Cats? Syrio says…
+Eddard Stark:  Cats? Syrio says…
 Arya Stark: He says every swordsman should study cats. They're quiet as shadows and as light as feathers. You have to be quick to catch them.
-Eddard Stark: He's right about that.
+Eddard Stark:  He's right about that.
 Arya Stark: Now that Bran's awake will he come live with us?
 Eddard Stark: He needs to get his strength back first.
 Arya Stark:He wants to be a knight of the King’s Guard. He can't be one now, can he?
@@ -219,24 +218,24 @@ Jon Snow: Come stand by the fire. It's warmer.
 Samwell Tarly: No, that's all right. I'm fine.
 Jon Snow: You're not. You're freezing.
 Samwell Tarly: I don't like high places.
-Jon Snow: You can't fight. You can't see. You're afraid of heights and almost everything else probably. What are you doing here, Sam?
+Jon Snow:  You can't fight. You can't see. You're afraid of heights and almost everything else probably. What are you doing here, Sam?
 Samwell Tarly: On the morning of my 18th nameday, my father came to me. "You're almost a man now," he said, "but you're not worthy of my land and title. Tomorrow, you're going to take the black, forsake all claim to your inheritance and start north. If you do not," he said, "then we'll have a hunt and somewhere in these woods your horse will stumble and you'll be thrown from your saddle to die. Or so I'll tell your mother. Nothing would please me more." Ser Alliser's going to make me fight again tomorrow, isn't he?
-Jon Snow: Yes, he is.
+Jon Snow:  Yes, he is.
 Samwell Tarly: I'm not going to get any better, you know?
-Jon Snow: Well… You can't get any worse.
+Jon Snow:  Well… You can't get any worse.
 Walking through the gardens of King’s Landing.
 Petyr Baelish: I hear you're reading a boring book.
 Eddard Stark: Pycelle talks too much.
 Petyr Baelish: He never stops. Do you know Ser Hugh of the Vale? Not surprising. Until recently, he was only a squire... Jon Arryn's squire. He was knighted almost immediately after his master's untimely death.
-Eddard Stark: Knighted for what? Why are you telling me this?
+Eddard Stark:  Knighted for what? Why are you telling me this?
 Petyr Baelish: I promised Cat that I'd help you.
-Eddard Stark: Where is Ser Hugh? I'll speak to him.
+Eddard Stark:  Where is Ser Hugh? I'll speak to him.
 Petyr Baelish: A singularly bad idea. Do you see that boy there? One of Varys's little birds. The Spider has taken a great interest in your comings and goings. Now look there. That one belongs to the Queen. And do you see that Septa pretending to read her book?
 Eddard Stark: Varys or the Queen?
 Petyr Baelish: No. She's one of mine. Is there someone in your service whom you trust completely?
-Eddard Stark: Yes.
+Eddard Stark:  Yes.
 Petyr Baelish: The wiser answer was no, my Lord. Get a message to this paragon of yours... Discreetly. Send him to question Ser Hugh. After that, you might want him to visit a certain armorer in the city. He lives in a large house at the top of the street of Steel.
-Eddard Stark: Why?
+Eddard Stark:  Why?
 Petyr Baelish: I have my observers, as I said, and it's possible that they saw Lord Arryn visit this armorer several times in the weeks before his death.
 Eddard Stark: Lord Baelish, perhaps I was wrong to distrust you.
 Petyr Baelish: Distrusting me was the wisest thing you've done since you climbed off your horse.
@@ -249,13 +248,13 @@ Jory Cassel: No "ser." I'm not a knight.
 Hugh of the Vale: I see. Well, it just so happens that I am.
 Riding on horseback through King’s Landing, Ned and Jory arrive at the armorer.
 Jory Cassel: He said he'd be glad to talk to the Hand himself. He's a knight, you see.
-Eddard Stark: A knight. They strut around like roosters down here. Even the ones who've never seen an arrow coming their way.
+Eddard Stark:  A knight. They strut around like roosters down here. Even the ones who've never seen an arrow coming their way.
 Jory Cassel: You shouldn't be out here, my Lord. There's no telling who has eyes where.
 Eddard Stark: Let them look.
 Tobho Mott: The former Hand did call on me, my Lord, several times. I regret to say he did not honor me with his patronage.
-Eddard Stark: What did Lord Arryn want?
+Eddard Stark:  What did Lord Arryn want?
 Tobho Mott: He always came to see the boy.
-Eddard Stark: I'd like to see him as well.
+Eddard Stark:  I'd like to see him as well.
 Tobho Mott: As you wish, my Lord. Gendry! Here he is. Strong for his age. He works hard. Show the Hand the helmet you made, lad.
 Eddard Stark: This is fine work.
 Gendry: It's not for sale.
@@ -277,21 +276,21 @@ Jaime is standing guard outside of the king’s chambers. You can hear King Robe
 Jory Cassel: This is for the King from Lord Stark.
 Jaime Lannister: Listen. Do you hear them? How many do you think are in there with him? Guess.
 Jory Cassel: Three? Four?
-Jaime Lannister: He likes to do this when I'm on duty... He makes me listen as he insults my sister.
+Jaime Lannister:  He likes to do this when I'm on duty... He makes me listen as he insults my sister.
 Jory Cassel: Forgive me, my Lord...
 Jaime Lannister: Why do I have to forgive you? Have you wronged me?
 Jory Cassel: We've met before, you know.
-Jaime Lannister: Have we? Strange, I've forgotten.
+Jaime Lannister:  Have we? Strange, I've forgotten.
 Jory Cassel: The siege of Pyke. We fought side by side one afternoon.
 Jaime Lannister: That's where you got your scar?
 Jory Cassel: Aye. One of the Greyjoys nearly took my eye.
-Jaime Lannister: Vicious sons of whores.
+Jaime Lannister:  Vicious sons of whores.
 Jory Cassel: They like their bloodshed.
 Jaime Lannister: They stopped liking it at the end. That was a proper battle. D'you remember Thoros of Myr charging through the breach?
 Jory Cassel: With his burning sword? I'll remember that till the day I die.
-Jaime Lannister: I saw the youngest of the Greyjoy lads at Winterfell. It was like seeing a shark on a mountaintop.
+Jaime Lannister:  I saw the youngest of the Greyjoy lads at Winterfell. It was like seeing a shark on a mountaintop.
 Jory Cassel: Theon? He's a good lad.
-Jaime Lannister: I doubt it.
+Jaime Lannister:  I doubt it.
 Robert Baratheon: I'll bet you smell of blackberry jam! Let me smell it. Come here.
 Jory Cassel: Can I leave this with you? The message from Lord Stark.
 Jaime Lannister: I don't serve Lord Stark.
@@ -304,7 +303,7 @@ Pyp: Impossible!
 Jon Snow: That's enough. Sam's no different from the rest of us. There was no place for him in the world, so he's come here. We're not going to hurt him in the training yard anymore. Never again, no matter what Thorne says. He's our brother now and we're going to protect him.
 Rast: You are in love, Lord Snow. You girls can do as you please. But if Thorne puts me up against Lady Piggy, I'm gonna slice me off a side of bacon.
 All of the new recruits are sleeping. Jon, Ghost (his direwolf), Pyp and Grenn ambush and gag Rast as he sleeps. Jon threatens him.
-Jon Snow: No one touches Sam.
+Jon Snow:  No one touches Sam.
 Back in the training yard the next morning. Rast is defying Alliser and not attacking Sam.
 Alliser Thorne: What are you waiting for? Attack him! You, get in there.
 Grenn: Hit me. Go on, hit me! I yield! Yield yield. I yield.
@@ -322,7 +321,6 @@ Daenerys Targaryen: It's a gift. I had it made for you.
 Viserys Targaryen: Dothraki rags? Are you going to dress me now?
 Daenerys Targaryen: Please.
 Viserys Targaryen: This stinks of manure. All of it.
-Daenerys Targaryen: Stop - stop it.
 Viserys Targaryen: You would turn me into one of them, wouldn't you? Next you'll want to braid my hair.
 Daenerys Targaryen: You've no right to a braid. You've won no victories yet.
 Viserys Targaryen: You do not talk back to me!
@@ -333,27 +331,27 @@ Inside the Castle Black mess hall, cleaning up.
 Samwell Tarly: I know for a fact that some of the officers go to that brothel in Mole's Town.
 Jon Snow: I wouldn't doubt it.
 Samwell Tarly: Don't you think it's a little bit unfair? Making us take our vows while they sneak off for a little sally on the side?
-Jon Snow: Sally on the side?
+Jon Snow:  Sally on the side?
 Samwell Tarly:It's silly, isn't it? What, we can't defend the Wall unless we're celibate? It's absurd.
 Jon Snow: I didn't think you'd be so upset about it.
 Samwell Tarly:Why not? Because I'm fat? But I like girls just as much as you do. They might not like me as much. I've never... been with one. You've probably had hundreds.
-Jon Snow: As a matter of fact, I'm the same as you.
+Jon Snow:  As a matter of fact, I'm the same as you.
 Samwell Tarly: I find that hard to believe.
-Jon Snow: I came very close once. I was alone in a room with a naked girl, but...
+Jon Snow:  I came very close once. I was alone in a room with a naked girl, but...
 Samwell Tarly:You didn't know where to put it?
-Jon Snow: I know where to put it.
+Jon Snow:  I know where to put it.
 Samwell Tarly:Was she... Old and ugly?
-Jon Snow: Young and gorgeous. A whore named Ros.
+Jon Snow:  Young and gorgeous. A whore named Ros.
 Samwell Tarly: What color hair?
 Jon Snow: Red.
 Samwell Tarly: I like red hair. And her... Her...
-Jon Snow: You don't want to know.
+Jon Snow:  You don't want to know.
 Samwell Tarly: That good?
 Jon Snow: Better.
 Samwell Tarly: Oh no. So why exactly did you not make love to Ros with the perfect...
-Jon Snow: What's my name?
+Jon Snow:  What's my name?
 Samwell Tarly: Jon Snow?
-Jon Snow: And why is my surname Snow?
+Jon Snow:  And why is my surname Snow?
 Samwell Tarly: Because... You're a bastard from the north.
 Jon Snow: I never met my mother. My father wouldn't even tell me her name. I don't know if she's living or dead. I don't know if she's a noblewoman or a fisherman's wife... Or a whore. So I sat there in the brothel as Ros took off her clothes. But I couldn't do it. Because all I could think was what if I got her pregnant and she had a child, another bastard named Snow? It's not a good life for a child.
 Samwell Tarly: So... You didn't know where to put it?
@@ -398,15 +396,15 @@ Eddard Stark: Your Grace.
 Cersei Baratheon: You're missing your tournament.
 Eddard Stark: Putting my name on it doesn't make it mine.
 Cersei Baratheon: I thought we might put what happened on the Kingsroad behind us – the ugliness with the wolves. And forcing you to kill the beast was extreme. Though sometimes we go to extremes where our children are concerned. How is Sansa?
-Eddard Stark: She likes it here.
+Eddard Stark:  She likes it here.
 Cersei Baratheon: The only Stark who does. Favors her mother, not much of the north in her.
 Eddard Stark: What are you doing here?
-Cersei Baratheon: I might ask the same of you. What is it you hope to accomplish?
-Eddard Stark: The King called on me to serve him and the realm, and that's what I'll do until he tells me otherwise.
+Cersei Baratheon:  I might ask the same of you. What is it you hope to accomplish?
+Eddard Stark:  The King called on me to serve him and the realm, and that's what I'll do until he tells me otherwise.
 Cersei Baratheon: You can't change him. You can't help him. He'll do what he wants, which is all he's ever done. You'll try your best to pick up the pieces.
-Eddard Stark: If that's my job, then so be it.
+Eddard Stark:  If that's my job, then so be it.
 Cersei Baratheon: You're just a soldier, aren't you? You take your orders and you carry on. I suppose it makes sense. Your older brother was trained to lead and you were trained to follow.
-Eddard Stark: I was also trained to kill my enemies, Your Grace.
+Eddard Stark:  I was also trained to kill my enemies, Your Grace.
 Cersei Baratheon: As was I.
 At an inn along the King’s Road. Catelyn is heading back towards Winterfell.
 Marillion: Seven blessings to you, goodfolk!
