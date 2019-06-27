@@ -202,8 +202,7 @@ Catelyn Stark:  A courtesy?! My husband has been taken prisoner.
 My son intends to declare war.
 Lysa Arryn:  A war? Your son against the Lannisters?
 You should go to him. Teach him patience.
-Catelyn Stark:  Ned rots in a dungeon and you speak of patience? He is your brother by law!
-Does family mean nothing to you?
+Catelyn Stark:  Ned rots in a dungeon and you speak of patience? He is your brother by law!Does family mean nothing to you?
 Lysa Arryn:  Family means everything to me.
 And I will not risk Robin's life to get caught up in another of your husband's wars.
 Robin Arryn:  I'm hungry.
@@ -290,8 +289,7 @@ Who's there?
 Lord Commander?
 As soon as he walks through the door, the door shuts and the corpse of Othor attacks Jon. Jon tries to stab him with his dagger, but nothing seems to phase him. Jon pulls himself loose, draws his sword and cuts off Othor's other hand. Then Jon stabs Othor through the heart. Othor falls down. Suddenly Jeor Mormont arrives.
 Jeor Mormont:  Snow!?
-Jon Snow:  Commander!
-Othor gets back on his feet, pulling out Jon's sword out of his chest. Outside of the room, Ghost goes beserk, trying to get in.
+Jon Snow:  Commander!Othor gets back on his feet, pulling out Jon's sword out of his chest. Outside of the room, Ghost goes beserk, trying to get in.
 Jon grabs Jeor's lantern and throws it at Othor. Othor catches fire.
 Jon Snow:  Move move!
 Jon grabs Jeor by his arm and flees inside a room, shutting the door.
@@ -461,8 +459,7 @@ Hodor:  Hodor.
 Hodor obeys and runs off.
 Brann Stark:  Are there really giants beyond the Wall?
 Osha:  Giants and worse than giants.
-I tried telling your brother, he's marching the wrong way.
-All these swords, they should be going North, boy.
+I tried telling your brother, he's marching the wrong way.All these swords, they should be going North, boy.
 North, not south!
 The cold winds are rising.
 Looking back up to the Weirwood tree, Brann hears the wind again.

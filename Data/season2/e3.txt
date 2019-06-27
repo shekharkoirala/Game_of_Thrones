@@ -116,7 +116,8 @@ THEON: You lying bitch.
 YARA: It's not my fault you didn't recognize me.
 THEON: Recognize you? How could I? The last time I saw you you looked like a fat little boy.
 YARA: You were a fat little boy, too, but I recognized you.
-THEON: Why didn't you tell me? I wanted to see who you were first. And I did.
+THEON: Why didn't you tell me?
+YARA: I wanted to see who you were first. And I did.
 Balon enters.
 BALON: The plans are made. It's time you heard them.
 YARA: Father.

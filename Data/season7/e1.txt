@@ -74,7 +74,7 @@ JON: Ned Umber.
 NED UMBER, a boy, stands.
 JON: Alys Karstark.
 ALYS KARSTARK, a young woman, stands. NED and ALYS approach the high table.
-JON: For centuries, our families fought side by side on the battlefield. I ask you to pledge your loyalty once again to House Stark, to serve as our bannermen and come to our air whenever called upon.
+JON: For centuries, our families fought side by side on the battlefield. I ask you to pledge your loyalty once again to House Stark, to serve as our bannermen and come to our aid whenever called upon.
 NED and ALYS unsheathe their swords and kneel.
 JON: Stand.
 NED and ALYS stand.
@@ -343,7 +343,7 @@ BERIC urges his horse onward. The others follow.
 SANDOR: I don't like the look of it.
 THOROS dismounts his horse.
 THOROS: For a big, hard man, you scare easy.
-SANDOR: I'll tell you what doesn't scare me--bald cocksuckers like you. You think you're fooling anyone with that top knot? Bald cunt.
+SANDOR: I'll tell you what doesn't scare me: bald cocksuckers like you. You think you're fooling anyone with that top knot? Bald cunt.
 THOROS smiles.
 THOROS: Come on. Maybe they've got some ale hidden away.
 SANDOR: They don't.
@@ -356,7 +356,7 @@ SANDOR: With death.
 BERIC: Girl died in her father's arms. Both of them covered in blood and a knife at their feet. I'd say they were starving. And rather than letting his little girl suffer, he ended it for both of them.
 SANDOR: Doesn't matter now.
 BERIC: No, doesn't matter now.
-SANDOR sits at the table. BERIC joins him. SANDOR bites into a hunk of bread. THOROS stares a fire in the fireplace.
+SANDOR sits at the table. BERIC joins him. SANDOR bites into a hunk of bread. THOROS starts a fire in the fireplace.
 SANDOR: I've known you a long time, Dondarrion.
 BERIC: Aye. I think the first time we met was at that tournament--
 SANDOR: And I always thought you were dull as dirt.

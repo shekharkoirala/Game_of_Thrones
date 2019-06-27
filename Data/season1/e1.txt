@@ -19,8 +19,8 @@ ROYCE: What is it?
 GARED: It’s …
 [As he speaks, a CREATURE with glowing blue eyes rises behind ROYCE. ROYCE turns, the CREATURE strikes. The scene shifts to WILL, who hears a man crying out. The three horses stampede past him. He turns and sees someone standing very still in the distance. The figure turns – it’s the child who had been suspended in the tree, now with glowing blue eyes. WILL turns and runs.
 GARED is also fleeing, and we hear strange growls and catch glimpses of the CREATURE. Both terrified RANGERS stop, some distance apart, to catch their breath. WILL sees a CREATURE behead GARED. WILL sinks to his knees and the CREATURE tosses GARED’S head to him.]
-[Blackout / Opening credits]
-[Riders from Winterfell come up behind a dazed WILL. The scene shifts to the castle, where BRAN is practicing archery and getting frustrated, under the eyes of JON SNOW and ROBB STARK. JON pats BRAN’S shoulder.]
+[Blackout]
+TITLE SEQUENCE[Riders from Winterfell come up behind a dazed WILL. The scene shifts to the castle, where BRAN is practicing archery and getting frustrated, under the eyes of JON SNOW and ROBB STARK. JON pats BRAN’S shoulder.]
 JON: Go on. Father’s watching.
 [We see NED and CATELYN STARK watching from above.]
 JON: And your mother.
@@ -116,7 +116,7 @@ CERSEI: My husband.
 JAIME: If he told the king, both our heads would be skewered on the city gates by now. Whatever Jon Arryn knew or didn’t know, it died with him. And Robert will choose a new Hand of the king, someone to do his job while he’s off fucking boars and hunting whores. Or is it the other way around? And life will go on.
 CERSEI: You should be the Hand of the king.
 JAIME: That’s an honor I can do without. Their days are too long, their lives are too short.
-Scene shifts to a raven approaching Winterfell. [CATELYN crosses a busy courtyard and finds NED in the godswood.]
+[Scene shifts to a raven approaching Winterfell. CATELYN crosses a busy courtyard and finds NED in the godswood.]
 CATELYN: All these years and I still feel like an outsider when I come here.
 NED: You have five northern children. You’re not an outsider.
 CATELYN: I wonder if the old gods agree.
@@ -218,7 +218,7 @@ TYRION: I’m sorry, I’ve begun the feast a bit early. And this is the first o
 JAIME: I thought you might say that. But since we’re short on time, (he opens the door; a bevy of whores enter and descend on TYRION) Come on, girls. See you at sundown.
 [JAIME leaves.]
 TYRION: Close the door!
-[Scene changes to the Winterfell crypt, at Lyanna’s tomb. Robert places a feather in the hand of her statue.]
+Scene changes to the Winterfell crypt, at Lyanna’s tomb. [Robert places a feather in the hand of her statue.]
 ROBERT: Did you have to bury her in a place like this? She should be on a hill somewhere with the sun and the clouds above her.
 NED: She was my sister. This is where she belongs.
 ROBERT: She belonged with me.
@@ -330,7 +330,7 @@ CERSEI: And your dress. Did you make it?
 [SANSA nods yes.]
 CERSEI: Such talent. You must make something for me.
 [SANSA departs.]
-CERSEI (to CATELYN]: I hear we might share a grandchild someday.
+CERSEI (to CATELYN): I hear we might share a grandchild someday.
 CATELYN: I hear the same.
 CERSEI: Your daughter will do well in the capital. Such a beauty shouldn’t stay hidden up here forever.
 [SANSA and JOFFREY catch each other’s eye. JOFFREY smiles at her and she turns to her friend.]

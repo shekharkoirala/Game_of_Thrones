@@ -16,7 +16,7 @@ def cleaner(text):
       return True
     
 def single_file_creator():
-	for season in range(7):
+	for season in range(8):
 	  url = 'https://genius.com/albums/Game-of-thrones/Season-'+str(season+1)+'-scripts'
 	  folder_name =  data_folder + 'season'+str(season+1)
 	  os.mkdir(folder_name)

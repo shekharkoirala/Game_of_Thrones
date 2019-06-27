@@ -64,7 +64,8 @@ BRIENNE: Maybe you were as good as people said once. Or maybe people just love t
 JAIME: When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.
 BRIENNE:  Would I?
 JAIME: They'll knock your teeth out.
-BRIENNE: You think I care about my teeth? No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?
+BRIENNE: You think I care about my teeth?
+JAIME: No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?
 BRIENNE: What does it matter?
 JAIME: Close your eyes. Pretend they're Renly.
 BRIENNE: If you were a woman, you wouldn't resist? You'd let them do what they wanted?

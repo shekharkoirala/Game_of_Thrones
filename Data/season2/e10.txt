@@ -80,7 +80,8 @@ BRIENNE pulls the boat up to the shore. JAIME waits, his hands chained.
 JAIME: You're a virgin, I take it?
 Annoyed, BRIENNE pushes him forward. He walks and she follows.
 BRIENNE: Walk.
-JAIME: Childhood must have been awful for you. Were you a foot taller than all the boys? They laughed at you, called you names? Some boys like a challenge. One or two must have tried to get inside Big Brienne. BRIENNE: One or two tried.
+JAIME: Childhood must have been awful for you. Were you a foot taller than all the boys? They laughed at you, called you names? Some boys like a challenge. One or two must have tried to get inside Big Brienne.
+BRIENNE: One or two tried.
 JAIME: Ah. But you fought them off. But maybe you wished one of them could overpower you, fling you down, tear off your clothes. But none of them were strong enough. I'm strong enough.
 BRIENNE:  Not interested.
 JAIME: Of course you are. You'd love to know what it feels like to be a woman.
@@ -109,7 +110,8 @@ The men laugh even harder.
 BRIENNE: All right, we'll be going.
 She turns to take care of JAIME.
 MAN: Whoa. Whoa! Who do you fight for?
-BRIENNE: The Starks. MAN #2 What did he do?
+BRIENNE: The Starks.
+MAN #2: What did he do?
 JAIME: Apparently eating is now a crime. Who knew?
 BRIENNE: No, stealing is a crime.
 JAIME: But it's not a crime to starve. That's justice for you.
@@ -239,7 +241,7 @@ LUWIN comforts him with a gentle pat on the shoulder.
 EXT: WINTERFELL, THE NEXT MORNING
 THEON stands in the Winterfell courtyard, addressing his men.
 THEON: You hear that? That's the mating call of the Northmen. They want to fuck us. Well, I haven't had a good fuck in weeks. I'm ready for one.
-The ironborn men laugh
+The ironborn men laugh.
 THEON: They say every ironborn man is worth a dozen from the mainland.
 MEN: Aye!
 THEON: You think they're right?

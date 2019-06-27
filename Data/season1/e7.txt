@@ -427,8 +427,7 @@ So you'll stay and say your words with me?
 In Kings Landing we see Ned Stark walking with his guards, while Renly approaches.
 Renly Baratheon:  Lord Stark, a moment.
 Alone if you will.
-Renly Baratheon:  He named you Protector of the Realm.
-He did.
+Renly Baratheon:  He named you Protector of the Realm.He did.
 Renly Baratheon:  She won't care.
 Give me an hour and I can put a hundred swords at your command.
 Ned Stark:  And what should I do with a hundred swords?
@@ -480,7 +479,8 @@ Ned Stark:  We?
 Petyr Baelish:  You'll need someone to share these burdens. I assure you, my price would be modest.
 Ned Stark:  What you suggest is treason.
 Petyr Baelish:  Only if we lose.
-Ned Stark:  Make peace with the Lannisters, you say. With the people who tried to murder my boy.Petyr Baelish:  We only make peace with our enemies, my Lord.
+Ned Stark:  Make peace with the Lannisters, you say. With the people who tried to murder my boy.
+Petyr Baelish:  We only make peace with our enemies, my Lord.
 That's why it's called "making peace".
 Ned Stark:  No. I won't do it.
 Petyr Baelish:  So it will be Stannis and war?
@@ -520,8 +520,7 @@ Daenerys Stormborn:  What will they do to him?
 When the Khalasar rides, he'll be leashed to a saddle, forced to run behind the horses for as long as he can.
 Daenerys Stormborn:  And when he falls?
 I saw a man last nine miles once.
-Daenerys Stormborn:  King Robert still wants me dead.
-This poisoner was the first. He won't be the last.
+Daenerys Stormborn:  King Robert still wants me dead.This poisoner was the first. He won't be the last.
 Daenerys Stormborn:  I thought he'd leave me alone, now that my brother is gone.
 He will never leave you alone.
 If you ride to darkest Asshai, his assassins will follow you.
@@ -576,8 +575,7 @@ Barristan Selmy:  Those were the King's words.
 Cersei Lannister:  We have a new King now.
 Lord Eddard, when we last spoke you offered me some counsel.
 Allow me to return the courtesy. Bend the knee, My Lord.
-Bend the knee and swear loyalty to my son and we shall allow you to live out your days in the gray waste you call home.
-Your son has no claim to the throne.
+Bend the knee and swear loyalty to my son and we shall allow you to live out your days in the gray waste you call home.Your son has no claim to the throne.
 King Joffrey:  Liar!
 Cersei Lannister:  You condemn yourself with your own mouth, Lord Stark.
 Ser Barristan, seize this traitor.

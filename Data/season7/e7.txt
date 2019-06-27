@@ -18,7 +18,7 @@ BRONN: Not without a cock, you don't.
 JAIME: Maybe it really is all cocks in the end.
 BRONN: Yet, your brother--
 JAIME: Yes, he's always been a champion of the downtrodden.
-A trumpet blares. Men shriek in the distance, accompanied by thundering hoofbeats. The Dothraki crest the hill behind the disciplined unsullied army. They are savage and shrieking. They ride through and past the Unsullied.
+A trumpet blares. Men howl and whoop in the distance, accompanied by thundering hoofbeats. The Dothraki crest the hill behind the disciplined unsullied army. They are savage and shrieking. They ride through and past the Unsullied.
 BRONN: I think we're about to be the downtrodden.
 MAN: Archers, stand tall!
 MAN #2: Cover that wall!
@@ -51,7 +51,7 @@ TYRION: I imagine it was a sad joke at the end. An entire arena for a few sickly
 Lannister guards approach, led by BRONN and accompanied by BRIENNE and PODRICK.
 DAVOS: Maybe it still is.
 BRONN: Welcome, my lords. Your friends arrived before you did.
-The Dothraki, led by Qhono, look suspicious. BRIENNE and SANDOR exchange a look/
+The Dothraki, led by Qhono, look suspicious. BRIENNE and SANDOR exchange a look.
 BRONN: I've been sent to escort you all to the meeting.
 The Lannister guards part, clearing the path. TYRION nods to QHONO, who takes the lead. The Dothraki all move forward, followed by the rest. PODRICK meets TYRION.
 TYRION: A pleasant surprise in an unpleasant situation.
@@ -359,7 +359,7 @@ SANSA: That I defend my family from those who would harm us. That I defend the N
 ARYA: All right, then. Get on with it.
 SANSA: You stand accused of murder. You stand accused of treason. How do you answer these charges Lord Baelish?
 SANSA and ARYA turn their heads towards LITTLEFINGER, as do the others in the room. LITTLEFINGER is dumbfounded.
-ARYA: My sister
+ARYA: My sister asked you a question.
 LITTLEFINGER: Lady Sansa, forgive me I'm a bit confused.
 SANSA: Which charges confuse you? Let's start with the simplest one you murdered our aunt, Lysa Arryn. You pushed her through the Moon Door and watched her fall. Do you deny it?
 LITTLEFINGER: I did it to protect you.
@@ -523,4 +523,4 @@ MAN #2: What is it?
 A huge undead army emerges from the trees. The white walkers are mounted, holding a spear. Dark clouds swirl. A horn blares as the undead army gets closer to the wall. The undead army stops, and all is still.
 Atop the wall, TORMUND and BERIC look out nervously. A dragon's screech comes from the darkness. The undead Viserion flies in, and spits out blue flame at the wall as he passes. TORMUND and BERIC stare in disbelief. The Night King rides astride the undead dragon. TORMUND and BERIC hurry down from the watchtower.
 TORMUND: Come on!  Run! Run!
-The Night's Watchmen flee as the undead dragon attacks the wall will blue flame. The wall begins to buckle and fall. The stairways shake and fall apart. Many fall to their deaths. The undead army watches, motionless. TORMUND and BERIC barely escape from the collapsing section of the wall. Once it has come to the ground, the undead army starts to advance. The army seems endless, and includes undead giants. The Night King leads from above, riding Viserion. The undead march south of the wall.
+The Night's Watchmen flee as the undead dragon attacks the wall will blue flame. The wall begins to buckle and fall. The stairways shake and destruct. Many fall to their deaths. The undead army watches, motionless. TORMUND and BERIC barely escape from the collapsing section of the wall. Once it has come to the ground, the undead army starts to advance. The army seems endless, and includes undead giants. The Night King leads from above, riding Viserion. The undead march south of the wall.
